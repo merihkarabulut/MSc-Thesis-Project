@@ -1,0 +1,1801 @@
+,municipality_name1,municipality_name2,decade,add_pipeline_cap,current_pipeline_cap
+0,s-Gravenhage,Zoetermeer,0,0.0,0.0
+1,s-Gravenhage,Westland,0,31050.11,31050.11
+2,s-Gravenhage,Wassenaar,0,6.6934735e-12,6.6934735e-12
+3,s-Gravenhage,Rijswijk,0,0.0,0.0
+4,s-Gravenhage,Pijnacker-Nootdorp,0,0.0,0.0
+5,s-Gravenhage,Leidschendam-Voorburg,0,-6.459202e-12,-6.459202e-12
+6,s-Gravenhage,Delft,0,0.0,0.0
+7,Zwolle,Kampen,0,0.0,0.0
+8,Zwijndrecht,Ridderkerk,0,6.3058377e-14,6.3058377e-14
+9,Zwijndrecht,Papendrecht,0,0.0,0.0
+10,Zwijndrecht,Hendrik-Ido-Ambacht,0,0.0,0.0
+11,Zwijndrecht,Dordrecht,0,351.73602,351.73602
+12,Zwijndrecht,Barendrecht,0,339.42526,339.42526
+13,Zutphen,Brummen,0,0.0,0.0
+14,Zuidplas,Waddinxveen,0,0.0,0.0
+15,Zuidplas,Rotterdam,0,0.0,0.0
+16,Zuidplas,Lansingerland,0,0.0,0.0
+17,Zuidplas,Gouda,0,5100.0,5100.0
+18,Zuidplas,Capelle aan den IJssel,0,4921.5,4921.5
+19,Zuidplas,Alphen aan den Rijn,0,0.0,0.0
+20,Zoetermeer,s-Gravenhage,0,0.0,0.0
+21,Zoetermeer,Pijnacker-Nootdorp,0,1696.933,1696.933
+22,Zoetermeer,Leidschendam-Voorburg,0,0.0,0.0
+23,Zoetermeer,Lansingerland,0,1080.9294,1080.9294
+24,Zoetermeer,Alphen aan den Rijn,0,0.0,0.0
+25,Zevenaar,Westervoort,0,0.0,0.0
+26,Zevenaar,Rheden,0,506.49633,506.49633
+27,Zevenaar,Lingewaard,0,0.0,0.0
+28,Zevenaar,Duiven,0,5.5774901,5.5774901
+29,Zevenaar,Doetinchem,0,0.0,0.0
+30,Zevenaar,Doesburg,0,0.0,0.0
+31,Zeist,Utrecht,0,0.0,0.0
+32,Zeist,Soest,0,0.0,0.0
+33,Zeist,De Bilt,0,0.0,0.0
+34,Zeist,Baarn,0,0.0,0.0
+35,Zeist,Amersfoort,0,0.0,0.0
+36,Zeewolde,Nijkerk,0,0.0,0.0
+37,Zeewolde,Lelystad,0,0.0,0.0
+38,Zeewolde,Harderwijk,0,0.0,0.0
+39,Zeewolde,Almere,0,0.0,0.0
+40,Zandvoort,Noordwijk,0,0.0,0.0
+41,Zandvoort,Bloemendaal,0,1151.3102,1151.3102
+42,Zaanstad,Velsen,0,19738.703,19738.703
+43,Zaanstad,Oostzaan,0,0.0,0.0
+44,Zaanstad,Heemskerk,0,0.0,0.0
+45,Zaanstad,Haarlemmermeer,0,0.0,0.0
+46,Zaanstad,Beverwijk,0,0.0,0.0
+47,Zaanstad,Amsterdam,0,19047.849,19047.849
+48,Zaanstad,Alkmaar,0,0.0,0.0
+49,Woerden,Utrecht,0,0.0,0.0
+50,Woerden,Stichtse Vecht,0,0.0,0.0
+51,Woerden,Nieuwkoop,0,0.0,0.0
+52,Wijdemeren,Weesp,0,0.0,0.0
+53,Wijdemeren,Stichtse Vecht,0,0.0,0.0
+54,Wijdemeren,Hilversum,0,0.0,0.0
+55,Wijdemeren,De Bilt,0,0.0,0.0
+56,Westvoorne,Rotterdam,0,0.0,0.0
+57,Westvoorne,Hellevoetsluis,0,0.0,0.0
+58,Westvoorne,Brielle,0,0.0,0.0
+59,Westland,s-Gravenhage,0,31050.11,31050.11
+60,Westland,Rotterdam,0,32176.28,32176.28
+61,Westland,Rijswijk,0,0.0,0.0
+62,Westland,Midden-Delfland,0,0.0,0.0
+63,Westland,Maassluis,0,-9.7362134e-13,-9.7362134e-13
+64,Westervoort,Zevenaar,0,0.0,0.0
+65,Westervoort,Rheden,0,5215.6957,5215.6957
+66,Westervoort,Lingewaard,0,0.0,0.0
+67,Westervoort,Duiven,0,3443.55,3443.55
+68,Westervoort,Arnhem,0,0.0,0.0
+69,Weesp,Wijdemeren,0,0.0,0.0
+70,Weesp,Stichtse Vecht,0,0.0,0.0
+71,Weesp,Hilversum,0,0.0,0.0
+72,Weesp,Gooise Meren,0,0.0,0.0
+73,Weesp,Amsterdam,0,0.0,0.0
+74,Wassenaar,s-Gravenhage,0,6.6934735e-12,6.6934735e-12
+75,Wassenaar,Voorschoten,0,0.0,0.0
+76,Wassenaar,Leidschendam-Voorburg,0,6.459202e-12,6.459202e-12
+77,Wassenaar,Leiden,0,0.0,0.0
+78,Wassenaar,Katwijk,0,1.2692332e-11,1.2692332e-11
+79,Wageningen,Renkum,0,0.0,0.0
+80,Waddinxveen,Zuidplas,0,0.0,0.0
+81,Waddinxveen,Gouda,0,0.0,0.0
+82,Waddinxveen,Alphen aan den Rijn,0,0.0,0.0
+83,Waalwijk,Heusden,0,0.0,0.0
+84,Waalwijk,Geertruidenberg,0,0.0,0.0
+85,Waalwijk,Dongen,0,0.0,0.0
+86,Waalre,Veldhoven,0,0.0,0.0
+87,Waalre,Valkenswaard,0,0.0,0.0
+88,Waalre,Eindhoven,0,0.0,0.0
+89,Vught,Heusden,0,0.0,0.0
+90,Vught,'s-Hertogenbosch,0,0.0,0.0
+91,Voorschoten,Wassenaar,0,0.0,0.0
+92,Voorschoten,Leidschendam-Voorburg,0,-1.3479319e-11,-1.3479319e-11
+93,Voorschoten,Leiden,0,0.0,0.0
+94,Vlissingen,Middelburg,0,0.0,0.0
+95,Vlissingen,Borsele,0,0.0,0.0
+96,Vlaardingen,Schiedam,0,-6.9106653e-13,-6.9106653e-13
+97,Vlaardingen,Rotterdam,0,-5.1345243e-13,-5.1345243e-13
+98,Vlaardingen,Midden-Delfland,0,5.1345243e-13,5.1345243e-13
+99,Vlaardingen,Maassluis,0,0.0,0.0
+100,Venlo,Peel en Maas,0,0.0,0.0
+101,Venlo,Horst aan de Maas,0,0.0,0.0
+102,Venlo,Beesel,0,0.0,0.0
+103,Velsen,Zaanstad,0,19738.703,19738.703
+104,Velsen,Haarlemmermeer,0,114.54025,114.54025
+105,Velsen,Haarlem,0,226.32837,226.32837
+106,Velsen,Bloemendaal,0,1193.0675,1193.0675
+107,Velsen,Beverwijk,0,28.767657,28.767657
+108,Veldhoven,Waalre,0,0.0,0.0
+109,Veldhoven,Eindhoven,0,0.0,0.0
+110,Valkenswaard,Waalre,0,0.0,0.0
+111,Valkenburg aan de Geul,Meerssen,0,0.0,0.0
+112,Valkenburg aan de Geul,Maastricht,0,0.0,0.0
+113,Utrecht,Zeist,0,0.0,0.0
+114,Utrecht,Woerden,0,0.0,0.0
+115,Utrecht,Stichtse Vecht,0,0.0,0.0
+116,Utrecht,Nieuwegein,0,0.0,0.0
+117,Utrecht,IJsselstein,0,0.0,0.0
+118,Utrecht,Houten,0,0.0,0.0
+119,Utrecht,De Bilt,0,0.0,0.0
+120,Uithoorn,Nieuwkoop,0,0.0,0.0
+121,Uithoorn,Kaag en Braassem,0,0.0,0.0
+122,Uithoorn,Amstelveen,0,0.0,0.0
+123,Uithoorn,Aalsmeer,0,0.0,0.0
+124,Tilburg,Heusden,0,0.0,0.0
+125,Tilburg,Goirle,0,0.0,0.0
+126,Tilburg,Dongen,0,1534.9722,1534.9722
+127,Teylingen,Oegstgeest,0,-1.0331873e-11,-1.0331873e-11
+128,Teylingen,Noordwijk,0,0.0,0.0
+129,Teylingen,Lisse,0,0.0,0.0
+130,Teylingen,Leiderdorp,0,0.0,0.0
+131,Teylingen,Leiden,0,0.0,0.0
+132,Teylingen,Katwijk,0,0.0,0.0
+133,Teylingen,Kaag en Braassem,0,0.0,0.0
+134,Teylingen,Haarlemmermeer,0,0.0,0.0
+135,Stichtse Vecht,Woerden,0,0.0,0.0
+136,Stichtse Vecht,Wijdemeren,0,0.0,0.0
+137,Stichtse Vecht,Weesp,0,0.0,0.0
+138,Stichtse Vecht,Utrecht,0,0.0,0.0
+139,Stichtse Vecht,De Bilt,0,0.0,0.0
+140,Stein,Sittard-Geleen,0,0.0,0.0
+141,Stein,Meerssen,0,0.0,0.0
+142,Stein,Beek,0,0.0,0.0
+143,Steenbergen,Roosendaal,0,0.0,0.0
+144,Steenbergen,Moerdijk,0,0.0,0.0
+145,Steenbergen,Bergen op Zoom,0,0.0,0.0
+146,Stede Broec,Medemblik,0,0.0,0.0
+147,Stede Broec,Enkhuizen,0,0.0,0.0
+148,Son en Breugel,"Nuenen, Gerwen en Nederwetten",0,0.0,0.0
+149,Son en Breugel,Eindhoven,0,0.0,0.0
+150,Son en Breugel,Best,0,0.0,0.0
+151,Someren,Helmond,0,0.0,0.0
+152,Someren,Geldrop-Mierlo,0,0.0,0.0
+153,Soest,Zeist,0,0.0,0.0
+154,Soest,Baarn,0,0.0,0.0
+155,Soest,Amersfoort,0,0.0,0.0
+156,Sliedrecht,Papendrecht,0,0.0,0.0
+157,Sliedrecht,Hardinxveld-Giessendam,0,0.0,0.0
+158,Sliedrecht,Dordrecht,0,0.0,0.0
+159,Sittard-Geleen,Stein,0,0.0,0.0
+160,Sittard-Geleen,Beek,0,0.0,0.0
+161,Simpelveld,Heerlen,0,0.0,0.0
+162,Schiedam,Vlaardingen,0,0.0,0.0
+163,Schiedam,Rotterdam,0,0.0,0.0
+164,Schiedam,Midden-Delfland,0,0.0,0.0
+165,Rotterdam,Zuidplas,0,0.0,0.0
+166,Rotterdam,Westvoorne,0,0.0,0.0
+167,Rotterdam,Westland,0,32176.28,32176.28
+168,Rotterdam,Vlaardingen,0,-5.1345243e-13,-5.1345243e-13
+169,Rotterdam,Schiedam,0,0.0,0.0
+170,Rotterdam,Ridderkerk,0,0.0,0.0
+171,Rotterdam,Pijnacker-Nootdorp,0,11509.745,11509.745
+172,Rotterdam,Nissewaard,0,0.0,0.0
+173,Rotterdam,Midden-Delfland,0,15100.867,15100.867
+174,Rotterdam,Maassluis,0,0.0,0.0
+175,Rotterdam,Lansingerland,0,10056.331,10056.331
+176,Rotterdam,Krimpen aan den IJssel,0,0.0,0.0
+177,Rotterdam,Delft,0,0.0,0.0
+178,Rotterdam,Capelle aan den IJssel,0,1287.666,1287.666
+179,Rotterdam,Brielle,0,0.0,0.0
+180,Rotterdam,Barendrecht,0,1104.2371,1104.2371
+181,Rotterdam,Albrandswaard,0,0.0,0.0
+182,Roosendaal,Steenbergen,0,0.0,0.0
+183,Roosendaal,Bergen op Zoom,0,0.0,0.0
+184,Roermond,Maasgouw,0,0.0,0.0
+185,Roermond,Beesel,0,563.63681,563.63681
+186,Rijswijk,s-Gravenhage,0,0.0,0.0
+187,Rijswijk,Westland,0,0.0,0.0
+188,Rijswijk,Midden-Delfland,0,0.0,0.0
+189,Rijswijk,Delft,0,0.0,0.0
+190,Ridderkerk,Zwijndrecht,0,-1.3069094e-13,-1.3069094e-13
+191,Ridderkerk,Rotterdam,0,0.0,0.0
+192,Ridderkerk,Krimpen aan den IJssel,0,1011.0203,1011.0203
+193,Ridderkerk,Hendrik-Ido-Ambacht,0,858.50793,858.50793
+194,Ridderkerk,Barendrecht,0,0.0,0.0
+195,Ridderkerk,Alblasserdam,0,189.18149,189.18149
+196,Rheden,Zevenaar,0,506.49633,506.49633
+197,Rheden,Westervoort,0,5215.6957,5215.6957
+198,Rheden,Doesburg,0,231.23588,231.23588
+199,Rheden,Brummen,0,9750.0,9750.0
+200,Rheden,Arnhem,0,3455.3221,3455.3221
+201,Renkum,Wageningen,0,0.0,0.0
+202,Renkum,Arnhem,0,0.0,0.0
+203,Purmerend,Edam-Volendam,0,0.0,0.0
+204,Pijnacker-Nootdorp,s-Gravenhage,0,0.0,0.0
+205,Pijnacker-Nootdorp,Zoetermeer,0,1696.933,1696.933
+206,Pijnacker-Nootdorp,Rotterdam,0,11509.745,11509.745
+207,Pijnacker-Nootdorp,Lansingerland,0,0.0,0.0
+208,Pijnacker-Nootdorp,Delft,0,4199.2924,4199.2924
+209,Peel en Maas,Venlo,0,0.0,0.0
+210,Peel en Maas,Horst aan de Maas,0,0.0,0.0
+211,Peel en Maas,Beesel,0,0.0,0.0
+212,Papendrecht,Zwijndrecht,0,0.0,0.0
+213,Papendrecht,Sliedrecht,0,0.0,0.0
+214,Papendrecht,Hendrik-Ido-Ambacht,0,889.64553,889.64553
+215,Papendrecht,Dordrecht,0,4183.317,4183.317
+216,Papendrecht,Alblasserdam,0,196.043,196.043
+217,Ouder-Amstel,Diemen,0,0.0,0.0
+218,Ouder-Amstel,Amsterdam,0,0.0,0.0
+219,Ouder-Amstel,Amstelveen,0,0.0,0.0
+220,Oostzaan,Zaanstad,0,0.0,0.0
+221,Oostzaan,Amsterdam,0,0.0,0.0
+222,Oosterhout,Geertruidenberg,0,0.0,0.0
+223,Oosterhout,Drimmelen,0,2477.844,2477.844
+224,Oosterhout,Dongen,0,1320.8243,1320.8243
+225,Oosterhout,Breda,0,832.88734,832.88734
+226,Oldenzaal,Enschede,0,0.0,0.0
+227,Oegstgeest,Teylingen,0,-1.0331873e-11,-1.0331873e-11
+228,Oegstgeest,Leiden,0,0.0,0.0
+229,Oegstgeest,Katwijk,0,1.22481e-11,1.22481e-11
+230,"Nuenen, Gerwen en Nederwetten",Son en Breugel,0,0.0,0.0
+231,"Nuenen, Gerwen en Nederwetten",Helmond,0,0.0,0.0
+232,"Nuenen, Gerwen en Nederwetten",Geldrop-Mierlo,0,0.0,0.0
+233,"Nuenen, Gerwen en Nederwetten",Eindhoven,0,0.0,0.0
+234,Noordwijk,Zandvoort,0,0.0,0.0
+235,Noordwijk,Teylingen,0,0.0,0.0
+236,Noordwijk,Lisse,0,0.0,0.0
+237,Noordwijk,Katwijk,0,0.0,0.0
+238,Noordwijk,Hillegom,0,0.0,0.0
+239,Noordwijk,Bloemendaal,0,0.0,0.0
+240,Nissewaard,Rotterdam,0,0.0,0.0
+241,Nissewaard,Hellevoetsluis,0,0.0,0.0
+242,Nissewaard,Brielle,0,0.0,0.0
+243,Nissewaard,Albrandswaard,0,0.0,0.0
+244,Nijmegen,Lingewaard,0,0.0,0.0
+245,Nijkerk,Zeewolde,0,0.0,0.0
+246,Nijkerk,Bunschoten,0,0.0,0.0
+247,Nijkerk,Amersfoort,0,0.0,0.0
+248,Nieuwkoop,Woerden,0,0.0,0.0
+249,Nieuwkoop,Uithoorn,0,0.0,0.0
+250,Nieuwkoop,Kaag en Braassem,0,0.0,0.0
+251,Nieuwkoop,Alphen aan den Rijn,0,0.0,0.0
+252,Nieuwegein,Utrecht,0,0.0,0.0
+253,Nieuwegein,IJsselstein,0,0.0,0.0
+254,Nieuwegein,Houten,0,251.97821,251.97821
+255,Moerdijk,Steenbergen,0,0.0,0.0
+256,Moerdijk,Etten-Leur,0,691.4001,691.4001
+257,Moerdijk,Drimmelen,0,4102.6145,4102.6145
+258,Moerdijk,Dordrecht,0,0.0,0.0
+259,Moerdijk,Breda,0,58124.138,58124.138
+260,Midden-Groningen,Groningen,0,0.0,0.0
+261,Midden-Groningen,Delfzijl,0,0.0,0.0
+262,Midden-Groningen,Aa en Hunze,0,0.0,0.0
+263,Midden-Delfland,Westland,0,0.0,0.0
+264,Midden-Delfland,Vlaardingen,0,5.1345243e-13,5.1345243e-13
+265,Midden-Delfland,Schiedam,0,0.0,0.0
+266,Midden-Delfland,Rotterdam,0,15100.867,15100.867
+267,Midden-Delfland,Rijswijk,0,0.0,0.0
+268,Midden-Delfland,Maassluis,0,0.0,0.0
+269,Midden-Delfland,Delft,0,8628.2186,8628.2186
+270,Middelburg,Vlissingen,0,0.0,0.0
+271,Middelburg,Borsele,0,0.0,0.0
+272,Meerssen,Valkenburg aan de Geul,0,0.0,0.0
+273,Meerssen,Stein,0,0.0,0.0
+274,Meerssen,Maastricht,0,0.0,0.0
+275,Meerssen,Beek,0,0.0,0.0
+276,Medemblik,Stede Broec,0,0.0,0.0
+277,Medemblik,Hoorn,0,0.0,0.0
+278,Medemblik,Enkhuizen,0,0.0,0.0
+279,Maastricht,Valkenburg aan de Geul,0,0.0,0.0
+280,Maastricht,Meerssen,0,0.0,0.0
+281,Maassluis,Westland,0,-9.7362134e-13,-9.7362134e-13
+282,Maassluis,Vlaardingen,0,0.0,0.0
+283,Maassluis,Rotterdam,0,0.0,0.0
+284,Maassluis,Midden-Delfland,0,0.0,0.0
+285,Maasgouw,Roermond,0,0.0,0.0
+286,Lisse,Teylingen,0,0.0,0.0
+287,Lisse,Noordwijk,0,0.0,0.0
+288,Lisse,Hillegom,0,0.0,0.0
+289,Lisse,Haarlemmermeer,0,0.0,0.0
+290,Lingewaard,Zevenaar,0,0.0,0.0
+291,Lingewaard,Westervoort,0,0.0,0.0
+292,Lingewaard,Nijmegen,0,0.0,0.0
+293,Lingewaard,Duiven,0,0.0,0.0
+294,Lingewaard,Arnhem,0,0.0,0.0
+295,Lelystad,Zeewolde,0,0.0,0.0
+296,Lelystad,Enkhuizen,0,0.0,0.0
+297,Lelystad,Almere,0,0.0,0.0
+298,Leidschendam-Voorburg,s-Gravenhage,0,-6.459202e-12,-6.459202e-12
+299,Leidschendam-Voorburg,Zoetermeer,0,0.0,0.0
+300,Leidschendam-Voorburg,Wassenaar,0,6.459202e-12,6.459202e-12
+301,Leidschendam-Voorburg,Voorschoten,0,-1.3821331e-11,-1.3821331e-11
+302,Leidschendam-Voorburg,Leiden,0,0.0,0.0
+303,Leiderdorp,Teylingen,0,0.0,0.0
+304,Leiderdorp,Leiden,0,0.0,0.0
+305,Leiderdorp,Kaag en Braassem,0,1.0159731e-11,1.0159731e-11
+306,Leiderdorp,Alphen aan den Rijn,0,0.0,0.0
+307,Leiden,Wassenaar,0,0.0,0.0
+308,Leiden,Voorschoten,0,0.0,0.0
+309,Leiden,Teylingen,0,0.0,0.0
+310,Leiden,Oegstgeest,0,0.0,0.0
+311,Leiden,Leidschendam-Voorburg,0,0.0,0.0
+312,Leiden,Leiderdorp,0,0.0,0.0
+313,Leiden,Katwijk,0,0.0,0.0
+314,Laren,Huizen,0,0.0,0.0
+315,Laren,Hilversum,0,0.0,0.0
+316,Laren,Blaricum,0,0.0,0.0
+317,Laren,Baarn,0,0.0,0.0
+318,Lansingerland,Zuidplas,0,0.0,0.0
+319,Lansingerland,Zoetermeer,0,1080.9294,1080.9294
+320,Lansingerland,Rotterdam,0,10056.331,10056.331
+321,Lansingerland,Pijnacker-Nootdorp,0,0.0,0.0
+322,Lansingerland,Alphen aan den Rijn,0,0.0,0.0
+323,Langedijk,Heerhugowaard,0,240.56412,240.56412
+324,Langedijk,Alkmaar,0,0.0,0.0
+325,Landgraaf,Kerkrade,0,0.0,0.0
+326,Landgraaf,Heerlen,0,0.0,0.0
+327,Landgraaf,Brunssum,0,0.0,0.0
+328,Krimpen aan den IJssel,Rotterdam,0,0.0,0.0
+329,Krimpen aan den IJssel,Ridderkerk,0,1011.0203,1011.0203
+330,Krimpen aan den IJssel,Capelle aan den IJssel,0,975.63458,975.63458
+331,Kerkrade,Landgraaf,0,0.0,0.0
+332,Kerkrade,Heerlen,0,0.0,0.0
+333,Katwijk,Wassenaar,0,1.2692332e-11,1.2692332e-11
+334,Katwijk,Teylingen,0,0.0,0.0
+335,Katwijk,Oegstgeest,0,1.22481e-11,1.22481e-11
+336,Katwijk,Noordwijk,0,0.0,0.0
+337,Katwijk,Leiden,0,0.0,0.0
+338,Kampen,Zwolle,0,0.0,0.0
+339,Kaag en Braassem,Uithoorn,0,0.0,0.0
+340,Kaag en Braassem,Teylingen,0,0.0,0.0
+341,Kaag en Braassem,Nieuwkoop,0,0.0,0.0
+342,Kaag en Braassem,Leiderdorp,0,9.6749314e-12,9.6749314e-12
+343,Kaag en Braassem,Haarlemmermeer,0,0.0,0.0
+344,Kaag en Braassem,Alphen aan den Rijn,0,0.0,0.0
+345,Kaag en Braassem,Aalsmeer,0,0.0,0.0
+346,IJsselstein,Utrecht,0,0.0,0.0
+347,IJsselstein,Nieuwegein,0,0.0,0.0
+348,Huizen,Laren,0,0.0,0.0
+349,Huizen,Hilversum,0,0.0,0.0
+350,Huizen,Gooise Meren,0,0.0,0.0
+351,Huizen,Blaricum,0,0.0,0.0
+352,Houten,Utrecht,0,0.0,0.0
+353,Houten,Nieuwegein,0,251.97821,251.97821
+354,Houten,Culemborg,0,0.0,0.0
+355,Horst aan de Maas,Venlo,0,0.0,0.0
+356,Horst aan de Maas,Peel en Maas,0,0.0,0.0
+357,Hoorn,Medemblik,0,0.0,0.0
+358,Hilversum,Wijdemeren,0,0.0,0.0
+359,Hilversum,Weesp,0,0.0,0.0
+360,Hilversum,Laren,0,0.0,0.0
+361,Hilversum,Huizen,0,0.0,0.0
+362,Hilversum,Gooise Meren,0,0.0,0.0
+363,Hilversum,De Bilt,0,0.0,0.0
+364,Hilversum,Blaricum,0,0.0,0.0
+365,Hilversum,Baarn,0,0.0,0.0
+366,Hillegom,Noordwijk,0,0.0,0.0
+367,Hillegom,Lisse,0,0.0,0.0
+368,Hillegom,Haarlemmermeer,0,0.0,0.0
+369,Hillegom,Bloemendaal,0,0.0,0.0
+370,Heusden,Waalwijk,0,0.0,0.0
+371,Heusden,Vught,0,0.0,0.0
+372,Heusden,Tilburg,0,0.0,0.0
+373,Heusden,'s-Hertogenbosch,0,0.0,0.0
+374,Hengelo,Enschede,0,17300.0,17300.0
+375,Hengelo,Borne,0,0.0,0.0
+376,Hendrik-Ido-Ambacht,Zwijndrecht,0,0.0,0.0
+377,Hendrik-Ido-Ambacht,Ridderkerk,0,858.50793,858.50793
+378,Hendrik-Ido-Ambacht,Papendrecht,0,889.64553,889.64553
+379,Hendrik-Ido-Ambacht,Alblasserdam,0,0.0,0.0
+380,Helmond,Someren,0,0.0,0.0
+381,Helmond,"Nuenen, Gerwen en Nederwetten",0,0.0,0.0
+382,Helmond,Geldrop-Mierlo,0,0.0,0.0
+383,Hellevoetsluis,Westvoorne,0,0.0,0.0
+384,Hellevoetsluis,Nissewaard,0,0.0,0.0
+385,Hellevoetsluis,Brielle,0,0.0,0.0
+386,Heiloo,Castricum,0,25.85154,25.85154
+387,Heiloo,Alkmaar,0,24.946737,24.946737
+388,Heerlen,Simpelveld,0,0.0,0.0
+389,Heerlen,Landgraaf,0,0.0,0.0
+390,Heerlen,Kerkrade,0,0.0,0.0
+391,Heerlen,Brunssum,0,0.0,0.0
+392,Heerhugowaard,Langedijk,0,240.56412,240.56412
+393,Heerhugowaard,Alkmaar,0,24.073601,24.073601
+394,Heemstede,Haarlemmermeer,0,0.0,0.0
+395,Heemstede,Haarlem,0,0.0,0.0
+396,Heemstede,Bloemendaal,0,0.0,0.0
+397,Heemskerk,Zaanstad,0,0.0,0.0
+398,Heemskerk,Castricum,0,26.789161,26.789161
+399,Heemskerk,Beverwijk,0,27.760789,27.760789
+400,Hardinxveld-Giessendam,Sliedrecht,0,0.0,0.0
+401,Hardinxveld-Giessendam,Gorinchem,0,0.0,0.0
+402,Hardinxveld-Giessendam,Dordrecht,0,0.0,0.0
+403,Harderwijk,Zeewolde,0,0.0,0.0
+404,Haarlemmermeer,Zaanstad,0,0.0,0.0
+405,Haarlemmermeer,Velsen,0,114.54025,114.54025
+406,Haarlemmermeer,Teylingen,0,0.0,0.0
+407,Haarlemmermeer,Lisse,0,0.0,0.0
+408,Haarlemmermeer,Kaag en Braassem,0,0.0,0.0
+409,Haarlemmermeer,Hillegom,0,0.0,0.0
+410,Haarlemmermeer,Heemstede,0,0.0,0.0
+411,Haarlemmermeer,Haarlem,0,218.40688,218.40688
+412,Haarlemmermeer,Bloemendaal,0,0.0,0.0
+413,Haarlemmermeer,Amsterdam,0,0.0,0.0
+414,Haarlemmermeer,Amstelveen,0,37.779914,37.779914
+415,Haarlemmermeer,Aalsmeer,0,283.51406,283.51406
+416,Haarlem,Velsen,0,226.32837,226.32837
+417,Haarlem,Heemstede,0,0.0,0.0
+418,Haarlem,Haarlemmermeer,0,218.40688,218.40688
+419,Haarlem,Bloemendaal,0,0.0,0.0
+420,Groningen,Midden-Groningen,0,0.0,0.0
+421,Gouda,Zuidplas,0,5100.0,5100.0
+422,Gouda,Waddinxveen,0,0.0,0.0
+423,Gorinchem,Hardinxveld-Giessendam,0,0.0,0.0
+424,Gooise Meren,Weesp,0,0.0,0.0
+425,Gooise Meren,Huizen,0,0.0,0.0
+426,Gooise Meren,Hilversum,0,0.0,0.0
+427,Gooise Meren,Diemen,0,0.0,0.0
+428,Gooise Meren,Amsterdam,0,0.0,0.0
+429,Goirle,Tilburg,0,0.0,0.0
+430,Geldrop-Mierlo,Someren,0,0.0,0.0
+431,Geldrop-Mierlo,"Nuenen, Gerwen en Nederwetten",0,0.0,0.0
+432,Geldrop-Mierlo,Helmond,0,0.0,0.0
+433,Geldrop-Mierlo,Eindhoven,0,0.0,0.0
+434,Geertruidenberg,Waalwijk,0,0.0,0.0
+435,Geertruidenberg,Oosterhout,0,0.0,0.0
+436,Geertruidenberg,Drimmelen,0,1833.3528,1833.3528
+437,Geertruidenberg,Dongen,0,269.82045,269.82045
+438,Etten-Leur,Moerdijk,0,691.4001,691.4001
+439,Etten-Leur,Breda,0,667.2011,667.2011
+440,Enschede,Oldenzaal,0,0.0,0.0
+441,Enschede,Hengelo,0,17300.0,17300.0
+442,Enkhuizen,Stede Broec,0,0.0,0.0
+443,Enkhuizen,Medemblik,0,0.0,0.0
+444,Enkhuizen,Lelystad,0,0.0,0.0
+445,Eindhoven,Waalre,0,0.0,0.0
+446,Eindhoven,Veldhoven,0,0.0,0.0
+447,Eindhoven,Son en Breugel,0,0.0,0.0
+448,Eindhoven,"Nuenen, Gerwen en Nederwetten",0,0.0,0.0
+449,Eindhoven,Geldrop-Mierlo,0,0.0,0.0
+450,Eindhoven,Best,0,0.0,0.0
+451,Edam-Volendam,Purmerend,0,0.0,0.0
+452,Duiven,Zevenaar,0,5.5774901,5.5774901
+453,Duiven,Westervoort,0,3443.55,3443.55
+454,Duiven,Lingewaard,0,0.0,0.0
+455,Drimmelen,Oosterhout,0,2477.844,2477.844
+456,Drimmelen,Moerdijk,0,4102.6145,4102.6145
+457,Drimmelen,Geertruidenberg,0,1833.3528,1833.3528
+458,Drimmelen,Dordrecht,0,364.94702,364.94702
+459,Drimmelen,Breda,0,0.0,0.0
+460,Dordrecht,Zwijndrecht,0,351.73602,351.73602
+461,Dordrecht,Sliedrecht,0,0.0,0.0
+462,Dordrecht,Papendrecht,0,4183.317,4183.317
+463,Dordrecht,Moerdijk,0,0.0,0.0
+464,Dordrecht,Hardinxveld-Giessendam,0,0.0,0.0
+465,Dordrecht,Drimmelen,0,364.94702,364.94702
+466,Dongen,Waalwijk,0,0.0,0.0
+467,Dongen,Tilburg,0,1534.9722,1534.9722
+468,Dongen,Oosterhout,0,1320.8243,1320.8243
+469,Dongen,Geertruidenberg,0,269.82045,269.82045
+470,Doetinchem,Zevenaar,0,0.0,0.0
+471,Doesburg,Zevenaar,0,0.0,0.0
+472,Doesburg,Rheden,0,231.23588,231.23588
+473,Diemen,Ouder-Amstel,0,0.0,0.0
+474,Diemen,Gooise Meren,0,0.0,0.0
+475,Diemen,Amsterdam,0,0.0,0.0
+476,Delfzijl,Midden-Groningen,0,0.0,0.0
+477,Delft,s-Gravenhage,0,0.0,0.0
+478,Delft,Rotterdam,0,0.0,0.0
+479,Delft,Rijswijk,0,0.0,0.0
+480,Delft,Pijnacker-Nootdorp,0,4199.2924,4199.2924
+481,Delft,Midden-Delfland,0,8628.2186,8628.2186
+482,De Bilt,Zeist,0,0.0,0.0
+483,De Bilt,Wijdemeren,0,0.0,0.0
+484,De Bilt,Utrecht,0,0.0,0.0
+485,De Bilt,Stichtse Vecht,0,0.0,0.0
+486,De Bilt,Hilversum,0,0.0,0.0
+487,De Bilt,Baarn,0,0.0,0.0
+488,Culemborg,Houten,0,0.0,0.0
+489,Castricum,Heiloo,0,25.85154,25.85154
+490,Castricum,Heemskerk,0,26.789161,26.789161
+491,Castricum,Alkmaar,0,0.0,0.0
+492,Capelle aan den IJssel,Zuidplas,0,4921.5,4921.5
+493,Capelle aan den IJssel,Rotterdam,0,1287.666,1287.666
+494,Capelle aan den IJssel,Krimpen aan den IJssel,0,975.63458,975.63458
+495,Bunschoten,Nijkerk,0,0.0,0.0
+496,Bunschoten,Baarn,0,0.0,0.0
+497,Bunschoten,Amersfoort,0,0.0,0.0
+498,Brunssum,Landgraaf,0,0.0,0.0
+499,Brunssum,Heerlen,0,0.0,0.0
+500,Brummen,Zutphen,0,0.0,0.0
+501,Brummen,Rheden,0,9750.0,9750.0
+502,Brielle,Westvoorne,0,0.0,0.0
+503,Brielle,Rotterdam,0,0.0,0.0
+504,Brielle,Nissewaard,0,0.0,0.0
+505,Brielle,Hellevoetsluis,0,0.0,0.0
+506,Breda,Oosterhout,0,832.88734,832.88734
+507,Breda,Moerdijk,0,58124.138,58124.138
+508,Breda,Etten-Leur,0,667.2011,667.2011
+509,Breda,Drimmelen,0,0.0,0.0
+510,Borsele,Vlissingen,0,0.0,0.0
+511,Borsele,Middelburg,0,0.0,0.0
+512,Borne,Hengelo,0,0.0,0.0
+513,Borne,Almelo,0,0.0,0.0
+514,Bloemendaal,Zandvoort,0,1151.3102,1151.3102
+515,Bloemendaal,Velsen,0,1193.0675,1193.0675
+516,Bloemendaal,Noordwijk,0,0.0,0.0
+517,Bloemendaal,Hillegom,0,0.0,0.0
+518,Bloemendaal,Heemstede,0,0.0,0.0
+519,Bloemendaal,Haarlemmermeer,0,0.0,0.0
+520,Bloemendaal,Haarlem,0,0.0,0.0
+521,Blaricum,Laren,0,0.0,0.0
+522,Blaricum,Huizen,0,0.0,0.0
+523,Blaricum,Hilversum,0,0.0,0.0
+524,Beverwijk,Zaanstad,0,0.0,0.0
+525,Beverwijk,Velsen,0,28.767657,28.767657
+526,Beverwijk,Heemskerk,0,27.760789,27.760789
+527,Best,Son en Breugel,0,0.0,0.0
+528,Best,Eindhoven,0,0.0,0.0
+529,Bergen op Zoom,Steenbergen,0,0.0,0.0
+530,Bergen op Zoom,Roosendaal,0,0.0,0.0
+531,Beesel,Venlo,0,0.0,0.0
+532,Beesel,Roermond,0,563.63681,563.63681
+533,Beesel,Peel en Maas,0,0.0,0.0
+534,Beek,Stein,0,0.0,0.0
+535,Beek,Sittard-Geleen,0,0.0,0.0
+536,Beek,Meerssen,0,0.0,0.0
+537,Barendrecht,Zwijndrecht,0,339.42526,339.42526
+538,Barendrecht,Rotterdam,0,1104.2371,1104.2371
+539,Barendrecht,Ridderkerk,0,0.0,0.0
+540,Barendrecht,Albrandswaard,0,0.0,0.0
+541,Baarn,Zeist,0,0.0,0.0
+542,Baarn,Soest,0,0.0,0.0
+543,Baarn,Laren,0,0.0,0.0
+544,Baarn,Hilversum,0,0.0,0.0
+545,Baarn,De Bilt,0,0.0,0.0
+546,Baarn,Bunschoten,0,0.0,0.0
+547,Baarn,Amersfoort,0,0.0,0.0
+548,Assen,Aa en Hunze,0,0.0,0.0
+549,Arnhem,Westervoort,0,0.0,0.0
+550,Arnhem,Rheden,0,3455.3221,3455.3221
+551,Arnhem,Renkum,0,0.0,0.0
+552,Arnhem,Lingewaard,0,0.0,0.0
+553,Amsterdam,Zaanstad,0,19047.849,19047.849
+554,Amsterdam,Weesp,0,0.0,0.0
+555,Amsterdam,Ouder-Amstel,0,0.0,0.0
+556,Amsterdam,Oostzaan,0,0.0,0.0
+557,Amsterdam,Haarlemmermeer,0,0.0,0.0
+558,Amsterdam,Gooise Meren,0,0.0,0.0
+559,Amsterdam,Diemen,0,0.0,0.0
+560,Amsterdam,Amstelveen,0,0.0,0.0
+561,Amstelveen,Uithoorn,0,0.0,0.0
+562,Amstelveen,Ouder-Amstel,0,0.0,0.0
+563,Amstelveen,Haarlemmermeer,0,37.779914,37.779914
+564,Amstelveen,Amsterdam,0,0.0,0.0
+565,Amstelveen,Aalsmeer,0,273.59107,273.59107
+566,Amersfoort,Zeist,0,0.0,0.0
+567,Amersfoort,Soest,0,0.0,0.0
+568,Amersfoort,Nijkerk,0,0.0,0.0
+569,Amersfoort,Bunschoten,0,0.0,0.0
+570,Amersfoort,Baarn,0,0.0,0.0
+571,Alphen aan den Rijn,Zuidplas,0,0.0,0.0
+572,Alphen aan den Rijn,Zoetermeer,0,0.0,0.0
+573,Alphen aan den Rijn,Waddinxveen,0,0.0,0.0
+574,Alphen aan den Rijn,Nieuwkoop,0,0.0,0.0
+575,Alphen aan den Rijn,Leiderdorp,0,0.0,0.0
+576,Alphen aan den Rijn,Lansingerland,0,0.0,0.0
+577,Alphen aan den Rijn,Kaag en Braassem,0,0.0,0.0
+578,Almere,Zeewolde,0,0.0,0.0
+579,Almere,Lelystad,0,0.0,0.0
+580,Almelo,Borne,0,0.0,0.0
+581,Alkmaar,Zaanstad,0,0.0,0.0
+582,Alkmaar,Langedijk,0,0.0,0.0
+583,Alkmaar,Heiloo,0,24.946737,24.946737
+584,Alkmaar,Heerhugowaard,0,24.073601,24.073601
+585,Alkmaar,Castricum,0,0.0,0.0
+586,Albrandswaard,Rotterdam,0,0.0,0.0
+587,Albrandswaard,Nissewaard,0,0.0,0.0
+588,Albrandswaard,Barendrecht,0,0.0,0.0
+589,Alblasserdam,Ridderkerk,0,189.18149,189.18149
+590,Alblasserdam,Papendrecht,0,196.043,196.043
+591,Alblasserdam,Hendrik-Ido-Ambacht,0,0.0,0.0
+592,Aalsmeer,Uithoorn,0,0.0,0.0
+593,Aalsmeer,Kaag en Braassem,0,0.0,0.0
+594,Aalsmeer,Haarlemmermeer,0,283.51406,283.51406
+595,Aalsmeer,Amstelveen,0,273.59107,273.59107
+596,Aa en Hunze,Midden-Groningen,0,0.0,0.0
+597,Aa en Hunze,Assen,0,0.0,0.0
+598,'s-Hertogenbosch,Vught,0,0.0,0.0
+599,'s-Hertogenbosch,Heusden,0,0.0,0.0
+600,s-Gravenhage,Zoetermeer,1,0.0,0.0
+601,s-Gravenhage,Westland,1,-6.9743192e-12,31050.11
+602,s-Gravenhage,Wassenaar,1,0.0,6.6934735e-12
+603,s-Gravenhage,Rijswijk,1,0.0,0.0
+604,s-Gravenhage,Pijnacker-Nootdorp,1,0.0,0.0
+605,s-Gravenhage,Leidschendam-Voorburg,1,0.0,-6.459202e-12
+606,s-Gravenhage,Delft,1,0.0,0.0
+607,Zwolle,Kampen,1,0.0,0.0
+608,Zwijndrecht,Ridderkerk,1,51.53124,51.53124
+609,Zwijndrecht,Papendrecht,1,0.0,0.0
+610,Zwijndrecht,Hendrik-Ido-Ambacht,1,0.0,0.0
+611,Zwijndrecht,Dordrecht,1,0.0,351.73602
+612,Zwijndrecht,Barendrecht,1,0.0,339.42526
+613,Zutphen,Brummen,1,4.18211e-12,4.18211e-12
+614,Zuidplas,Waddinxveen,1,0.0,0.0
+615,Zuidplas,Rotterdam,1,0.0,0.0
+616,Zuidplas,Lansingerland,1,0.0,0.0
+617,Zuidplas,Gouda,1,-9.4021772e-13,5100.0
+618,Zuidplas,Capelle aan den IJssel,1,0.0,4921.5
+619,Zuidplas,Alphen aan den Rijn,1,0.0,0.0
+620,Zoetermeer,s-Gravenhage,1,0.0,0.0
+621,Zoetermeer,Pijnacker-Nootdorp,1,2.3884014e-13,1696.933
+622,Zoetermeer,Leidschendam-Voorburg,1,0.0,0.0
+623,Zoetermeer,Lansingerland,1,0.0,1080.9294
+624,Zoetermeer,Alphen aan den Rijn,1,0.0,0.0
+625,Zevenaar,Westervoort,1,0.0,0.0
+626,Zevenaar,Rheden,1,0.0,506.49633
+627,Zevenaar,Lingewaard,1,0.0,0.0
+628,Zevenaar,Duiven,1,0.0,5.5774901
+629,Zevenaar,Doetinchem,1,0.0,0.0
+630,Zevenaar,Doesburg,1,0.0,0.0
+631,Zeist,Utrecht,1,0.0,0.0
+632,Zeist,Soest,1,0.0,0.0
+633,Zeist,De Bilt,1,0.0,0.0
+634,Zeist,Baarn,1,0.0,0.0
+635,Zeist,Amersfoort,1,0.0,0.0
+636,Zeewolde,Nijkerk,1,0.0,0.0
+637,Zeewolde,Lelystad,1,0.0,0.0
+638,Zeewolde,Harderwijk,1,0.0,0.0
+639,Zeewolde,Almere,1,0.0,0.0
+640,Zandvoort,Noordwijk,1,0.0,0.0
+641,Zandvoort,Bloemendaal,1,-1.4219642e-13,1151.3102
+642,Zaanstad,Velsen,1,0.0,19738.703
+643,Zaanstad,Oostzaan,1,0.0,0.0
+644,Zaanstad,Heemskerk,1,0.0,0.0
+645,Zaanstad,Haarlemmermeer,1,0.0,0.0
+646,Zaanstad,Beverwijk,1,0.0,0.0
+647,Zaanstad,Amsterdam,1,0.0,19047.849
+648,Zaanstad,Alkmaar,1,0.0,0.0
+649,Woerden,Utrecht,1,0.0,0.0
+650,Woerden,Stichtse Vecht,1,0.0,0.0
+651,Woerden,Nieuwkoop,1,0.0,0.0
+652,Wijdemeren,Weesp,1,0.0,0.0
+653,Wijdemeren,Stichtse Vecht,1,0.0,0.0
+654,Wijdemeren,Hilversum,1,0.0,0.0
+655,Wijdemeren,De Bilt,1,0.0,0.0
+656,Westvoorne,Rotterdam,1,2952.5007,2952.5007
+657,Westvoorne,Hellevoetsluis,1,0.0,0.0
+658,Westvoorne,Brielle,1,0.0,0.0
+659,Westland,s-Gravenhage,1,0.0,31050.11
+660,Westland,Rotterdam,1,15065.861,47242.141
+661,Westland,Rijswijk,1,0.0,0.0
+662,Westland,Midden-Delfland,1,0.0,0.0
+663,Westland,Maassluis,1,903.08031,903.08031
+664,Westervoort,Zevenaar,1,0.0,0.0
+665,Westervoort,Rheden,1,0.0,5215.6957
+666,Westervoort,Lingewaard,1,0.0,0.0
+667,Westervoort,Duiven,1,0.0,3443.55
+668,Westervoort,Arnhem,1,0.0,0.0
+669,Weesp,Wijdemeren,1,0.0,0.0
+670,Weesp,Stichtse Vecht,1,0.0,0.0
+671,Weesp,Hilversum,1,0.0,0.0
+672,Weesp,Gooise Meren,1,0.0,0.0
+673,Weesp,Amsterdam,1,0.0,0.0
+674,Wassenaar,s-Gravenhage,1,0.0,6.6934735e-12
+675,Wassenaar,Voorschoten,1,0.0,0.0
+676,Wassenaar,Leidschendam-Voorburg,1,0.0,6.459202e-12
+677,Wassenaar,Leiden,1,0.0,0.0
+678,Wassenaar,Katwijk,1,0.0,1.2692332e-11
+679,Wageningen,Renkum,1,0.0,0.0
+680,Waddinxveen,Zuidplas,1,0.0,0.0
+681,Waddinxveen,Gouda,1,0.0,0.0
+682,Waddinxveen,Alphen aan den Rijn,1,0.0,0.0
+683,Waalwijk,Heusden,1,0.0,0.0
+684,Waalwijk,Geertruidenberg,1,0.0,0.0
+685,Waalwijk,Dongen,1,0.0,0.0
+686,Waalre,Veldhoven,1,0.0,0.0
+687,Waalre,Valkenswaard,1,0.0,0.0
+688,Waalre,Eindhoven,1,0.0,0.0
+689,Vught,Heusden,1,379.31079,379.31079
+690,Vught,'s-Hertogenbosch,1,0.0,0.0
+691,Voorschoten,Wassenaar,1,0.0,0.0
+692,Voorschoten,Leidschendam-Voorburg,1,0.0,-1.2439198e-11
+693,Voorschoten,Leiden,1,0.0,0.0
+694,Vlissingen,Middelburg,1,10.20676,10.20676
+695,Vlissingen,Borsele,1,10677.741,10677.741
+696,Vlaardingen,Schiedam,1,6.9106653e-13,0.0
+697,Vlaardingen,Rotterdam,1,6872.7614,6872.7614
+698,Vlaardingen,Midden-Delfland,1,0.0,5.1345243e-13
+699,Vlaardingen,Maassluis,1,0.0,0.0
+700,Venlo,Peel en Maas,1,0.0,0.0
+701,Venlo,Horst aan de Maas,1,0.0,0.0
+702,Venlo,Beesel,1,0.0,0.0
+703,Velsen,Zaanstad,1,0.0,19738.703
+704,Velsen,Haarlemmermeer,1,2.3375072e-14,114.54025
+705,Velsen,Haarlem,1,2.799065e-14,226.32837
+706,Velsen,Bloemendaal,1,0.0,1193.0675
+707,Velsen,Beverwijk,1,4061.629,4090.3967
+708,Veldhoven,Waalre,1,0.0,0.0
+709,Veldhoven,Eindhoven,1,0.0,0.0
+710,Valkenswaard,Waalre,1,0.0,0.0
+711,Valkenburg aan de Geul,Meerssen,1,7219.6862,7219.6862
+712,Valkenburg aan de Geul,Maastricht,1,0.0,0.0
+713,Utrecht,Zeist,1,0.0,0.0
+714,Utrecht,Woerden,1,0.0,0.0
+715,Utrecht,Stichtse Vecht,1,0.0,0.0
+716,Utrecht,Nieuwegein,1,0.0,0.0
+717,Utrecht,IJsselstein,1,0.0,0.0
+718,Utrecht,Houten,1,0.0,0.0
+719,Utrecht,De Bilt,1,0.0,0.0
+720,Uithoorn,Nieuwkoop,1,0.0,0.0
+721,Uithoorn,Kaag en Braassem,1,0.0,0.0
+722,Uithoorn,Amstelveen,1,0.0,0.0
+723,Uithoorn,Aalsmeer,1,0.0,0.0
+724,Tilburg,Heusden,1,0.0,0.0
+725,Tilburg,Goirle,1,0.0,0.0
+726,Tilburg,Dongen,1,-2.1211296e-13,1534.9722
+727,Teylingen,Oegstgeest,1,0.0,-1.0331873e-11
+728,Teylingen,Noordwijk,1,0.0,0.0
+729,Teylingen,Lisse,1,0.0,0.0
+730,Teylingen,Leiderdorp,1,0.0,0.0
+731,Teylingen,Leiden,1,0.0,0.0
+732,Teylingen,Katwijk,1,0.0,0.0
+733,Teylingen,Kaag en Braassem,1,0.0,0.0
+734,Teylingen,Haarlemmermeer,1,0.0,0.0
+735,Stichtse Vecht,Woerden,1,0.0,0.0
+736,Stichtse Vecht,Wijdemeren,1,0.0,0.0
+737,Stichtse Vecht,Weesp,1,0.0,0.0
+738,Stichtse Vecht,Utrecht,1,0.0,0.0
+739,Stichtse Vecht,De Bilt,1,0.0,0.0
+740,Stein,Sittard-Geleen,1,15679.092,15679.092
+741,Stein,Meerssen,1,858.27071,858.27071
+742,Stein,Beek,1,0.0,0.0
+743,Steenbergen,Roosendaal,1,5594.6056,5594.6056
+744,Steenbergen,Moerdijk,1,0.0,0.0
+745,Steenbergen,Bergen op Zoom,1,2405.3944,2405.3944
+746,Stede Broec,Medemblik,1,0.0,0.0
+747,Stede Broec,Enkhuizen,1,0.0,0.0
+748,Son en Breugel,"Nuenen, Gerwen en Nederwetten",1,0.0,0.0
+749,Son en Breugel,Eindhoven,1,0.0,0.0
+750,Son en Breugel,Best,1,0.0,0.0
+751,Someren,Helmond,1,312.64424,312.64424
+752,Someren,Geldrop-Mierlo,1,699.11715,699.11715
+753,Soest,Zeist,1,0.0,0.0
+754,Soest,Baarn,1,0.0,0.0
+755,Soest,Amersfoort,1,0.0,0.0
+756,Sliedrecht,Papendrecht,1,0.0,0.0
+757,Sliedrecht,Hardinxveld-Giessendam,1,0.0,0.0
+758,Sliedrecht,Dordrecht,1,1566.6356,1566.6356
+759,Sittard-Geleen,Stein,1,15679.092,15679.092
+760,Sittard-Geleen,Beek,1,71833.189,71833.189
+761,Simpelveld,Heerlen,1,0.0,0.0
+762,Schiedam,Vlaardingen,1,0.0,0.0
+763,Schiedam,Rotterdam,1,5344.0712,5344.0712
+764,Schiedam,Midden-Delfland,1,0.0,0.0
+765,Rotterdam,Zuidplas,1,0.0,0.0
+766,Rotterdam,Westvoorne,1,2952.5007,2952.5007
+767,Rotterdam,Westland,1,15065.861,47242.141
+768,Rotterdam,Vlaardingen,1,6872.7614,6872.7614
+769,Rotterdam,Schiedam,1,5344.0712,5344.0712
+770,Rotterdam,Ridderkerk,1,0.0,0.0
+771,Rotterdam,Pijnacker-Nootdorp,1,0.0,11509.745
+772,Rotterdam,Nissewaard,1,4683.6474,4683.6474
+773,Rotterdam,Midden-Delfland,1,90.126765,15190.994
+774,Rotterdam,Maassluis,1,3623.3241,3623.3241
+775,Rotterdam,Lansingerland,1,0.0,10056.331
+776,Rotterdam,Krimpen aan den IJssel,1,0.0,0.0
+777,Rotterdam,Delft,1,0.0,0.0
+778,Rotterdam,Capelle aan den IJssel,1,-3.5445949e-13,1287.666
+779,Rotterdam,Brielle,1,6942.9317,6942.9317
+780,Rotterdam,Barendrecht,1,0.0,1104.2371
+781,Rotterdam,Albrandswaard,1,658.93542,658.93542
+782,Roosendaal,Steenbergen,1,5594.6056,5594.6056
+783,Roosendaal,Bergen op Zoom,1,0.0,0.0
+784,Roermond,Maasgouw,1,0.0,0.0
+785,Roermond,Beesel,1,0.0,563.63681
+786,Rijswijk,s-Gravenhage,1,0.0,0.0
+787,Rijswijk,Westland,1,0.0,0.0
+788,Rijswijk,Midden-Delfland,1,0.0,0.0
+789,Rijswijk,Delft,1,0.0,0.0
+790,Ridderkerk,Zwijndrecht,1,51.53124,51.53124
+791,Ridderkerk,Rotterdam,1,0.0,0.0
+792,Ridderkerk,Krimpen aan den IJssel,1,2.530377e-13,1011.0203
+793,Ridderkerk,Hendrik-Ido-Ambacht,1,137.84532,996.35325
+794,Ridderkerk,Barendrecht,1,0.0,0.0
+795,Ridderkerk,Alblasserdam,1,98.364365,287.54586
+796,Rheden,Zevenaar,1,0.0,506.49633
+797,Rheden,Westervoort,1,0.0,5215.6957
+798,Rheden,Doesburg,1,0.0,231.23588
+799,Rheden,Brummen,1,0.0,9750.0
+800,Rheden,Arnhem,1,0.0,3455.3221
+801,Renkum,Wageningen,1,0.0,0.0
+802,Renkum,Arnhem,1,0.0,0.0
+803,Purmerend,Edam-Volendam,1,409.14223,409.14223
+804,Pijnacker-Nootdorp,s-Gravenhage,1,0.0,0.0
+805,Pijnacker-Nootdorp,Zoetermeer,1,0.0,1696.933
+806,Pijnacker-Nootdorp,Rotterdam,1,0.0,11509.745
+807,Pijnacker-Nootdorp,Lansingerland,1,0.0,0.0
+808,Pijnacker-Nootdorp,Delft,1,0.0,4199.2924
+809,Peel en Maas,Venlo,1,0.0,0.0
+810,Peel en Maas,Horst aan de Maas,1,0.0,0.0
+811,Peel en Maas,Beesel,1,0.0,0.0
+812,Papendrecht,Zwijndrecht,1,0.0,0.0
+813,Papendrecht,Sliedrecht,1,0.0,0.0
+814,Papendrecht,Hendrik-Ido-Ambacht,1,0.0,889.64553
+815,Papendrecht,Dordrecht,1,-1.0389377e-12,4183.317
+816,Papendrecht,Alblasserdam,1,342.83355,538.87654
+817,Ouder-Amstel,Diemen,1,0.0,0.0
+818,Ouder-Amstel,Amsterdam,1,0.0,0.0
+819,Ouder-Amstel,Amstelveen,1,0.0,0.0
+820,Oostzaan,Zaanstad,1,0.0,0.0
+821,Oostzaan,Amsterdam,1,0.0,0.0
+822,Oosterhout,Geertruidenberg,1,0.0,0.0
+823,Oosterhout,Drimmelen,1,1515.5373,3993.3813
+824,Oosterhout,Dongen,1,0.0,1320.8243
+825,Oosterhout,Breda,1,0.0,832.88734
+826,Oldenzaal,Enschede,1,0.0,0.0
+827,Oegstgeest,Teylingen,1,0.0,-1.0331873e-11
+828,Oegstgeest,Leiden,1,0.0,0.0
+829,Oegstgeest,Katwijk,1,0.0,1.22481e-11
+830,"Nuenen, Gerwen en Nederwetten",Son en Breugel,1,0.0,0.0
+831,"Nuenen, Gerwen en Nederwetten",Helmond,1,0.0,0.0
+832,"Nuenen, Gerwen en Nederwetten",Geldrop-Mierlo,1,0.0,0.0
+833,"Nuenen, Gerwen en Nederwetten",Eindhoven,1,0.0,0.0
+834,Noordwijk,Zandvoort,1,0.0,0.0
+835,Noordwijk,Teylingen,1,0.0,0.0
+836,Noordwijk,Lisse,1,0.0,0.0
+837,Noordwijk,Katwijk,1,0.0,0.0
+838,Noordwijk,Hillegom,1,0.0,0.0
+839,Noordwijk,Bloemendaal,1,0.0,0.0
+840,Nissewaard,Rotterdam,1,4683.6474,4683.6474
+841,Nissewaard,Hellevoetsluis,1,0.0,0.0
+842,Nissewaard,Brielle,1,0.0,0.0
+843,Nissewaard,Albrandswaard,1,0.0,0.0
+844,Nijmegen,Lingewaard,1,0.0,0.0
+845,Nijkerk,Zeewolde,1,0.0,0.0
+846,Nijkerk,Bunschoten,1,0.0,0.0
+847,Nijkerk,Amersfoort,1,0.0,0.0
+848,Nieuwkoop,Woerden,1,0.0,0.0
+849,Nieuwkoop,Uithoorn,1,0.0,0.0
+850,Nieuwkoop,Kaag en Braassem,1,0.0,0.0
+851,Nieuwkoop,Alphen aan den Rijn,1,0.0,0.0
+852,Nieuwegein,Utrecht,1,0.0,0.0
+853,Nieuwegein,IJsselstein,1,549.15748,549.15748
+854,Nieuwegein,Houten,1,-3.1207943e-12,251.97821
+855,Moerdijk,Steenbergen,1,0.0,0.0
+856,Moerdijk,Etten-Leur,1,19661.714,20353.114
+857,Moerdijk,Drimmelen,1,10120.513,14223.128
+858,Moerdijk,Dordrecht,1,14349.619,14349.619
+859,Moerdijk,Breda,1,-1.1760153e-11,58124.138
+860,Midden-Groningen,Groningen,1,26281.0,26281.0
+861,Midden-Groningen,Delfzijl,1,23400.0,23400.0
+862,Midden-Groningen,Aa en Hunze,1,0.0,0.0
+863,Midden-Delfland,Westland,1,0.0,0.0
+864,Midden-Delfland,Vlaardingen,1,0.0,5.1345243e-13
+865,Midden-Delfland,Schiedam,1,0.0,0.0
+866,Midden-Delfland,Rotterdam,1,90.126765,15190.994
+867,Midden-Delfland,Rijswijk,1,0.0,0.0
+868,Midden-Delfland,Maassluis,1,0.0,0.0
+869,Midden-Delfland,Delft,1,0.0,8628.2186
+870,Middelburg,Vlissingen,1,10.20676,10.20676
+871,Middelburg,Borsele,1,12572.259,12572.259
+872,Meerssen,Valkenburg aan de Geul,1,7219.6862,7219.6862
+873,Meerssen,Stein,1,858.27071,858.27071
+874,Meerssen,Maastricht,1,44827.338,44827.338
+875,Meerssen,Beek,1,60771.691,60771.691
+876,Medemblik,Stede Broec,1,0.0,0.0
+877,Medemblik,Hoorn,1,0.0,0.0
+878,Medemblik,Enkhuizen,1,0.0,0.0
+879,Maastricht,Valkenburg aan de Geul,1,0.0,0.0
+880,Maastricht,Meerssen,1,44827.338,44827.338
+881,Maassluis,Westland,1,903.08031,903.08031
+882,Maassluis,Vlaardingen,1,0.0,0.0
+883,Maassluis,Rotterdam,1,3623.3241,3623.3241
+884,Maassluis,Midden-Delfland,1,0.0,0.0
+885,Maasgouw,Roermond,1,0.0,0.0
+886,Lisse,Teylingen,1,0.0,0.0
+887,Lisse,Noordwijk,1,0.0,0.0
+888,Lisse,Hillegom,1,0.0,0.0
+889,Lisse,Haarlemmermeer,1,0.0,0.0
+890,Lingewaard,Zevenaar,1,0.0,0.0
+891,Lingewaard,Westervoort,1,0.0,0.0
+892,Lingewaard,Nijmegen,1,0.0,0.0
+893,Lingewaard,Duiven,1,0.0,0.0
+894,Lingewaard,Arnhem,1,0.0,0.0
+895,Lelystad,Zeewolde,1,0.0,0.0
+896,Lelystad,Enkhuizen,1,0.0,0.0
+897,Lelystad,Almere,1,0.0,0.0
+898,Leidschendam-Voorburg,s-Gravenhage,1,0.0,-6.459202e-12
+899,Leidschendam-Voorburg,Zoetermeer,1,0.0,0.0
+900,Leidschendam-Voorburg,Wassenaar,1,0.0,6.459202e-12
+901,Leidschendam-Voorburg,Voorschoten,1,1.9739523e-12,-1.1847378e-11
+902,Leidschendam-Voorburg,Leiden,1,0.0,0.0
+903,Leiderdorp,Teylingen,1,0.0,0.0
+904,Leiderdorp,Leiden,1,0.0,0.0
+905,Leiderdorp,Kaag en Braassem,1,0.0,1.0162418e-11
+906,Leiderdorp,Alphen aan den Rijn,1,0.0,0.0
+907,Leiden,Wassenaar,1,0.0,0.0
+908,Leiden,Voorschoten,1,0.0,0.0
+909,Leiden,Teylingen,1,0.0,0.0
+910,Leiden,Oegstgeest,1,0.0,0.0
+911,Leiden,Leidschendam-Voorburg,1,0.0,0.0
+912,Leiden,Leiderdorp,1,0.0,0.0
+913,Leiden,Katwijk,1,0.0,0.0
+914,Laren,Huizen,1,0.0,0.0
+915,Laren,Hilversum,1,0.0,0.0
+916,Laren,Blaricum,1,0.0,0.0
+917,Laren,Baarn,1,0.0,0.0
+918,Lansingerland,Zuidplas,1,0.0,0.0
+919,Lansingerland,Zoetermeer,1,0.0,1080.9294
+920,Lansingerland,Rotterdam,1,-1.431367e-12,10056.331
+921,Lansingerland,Pijnacker-Nootdorp,1,0.0,0.0
+922,Lansingerland,Alphen aan den Rijn,1,0.0,0.0
+923,Langedijk,Heerhugowaard,1,4.6850392,245.24916
+924,Langedijk,Alkmaar,1,0.0,0.0
+925,Landgraaf,Kerkrade,1,0.0,0.0
+926,Landgraaf,Heerlen,1,0.0,0.0
+927,Landgraaf,Brunssum,1,0.0,0.0
+928,Krimpen aan den IJssel,Rotterdam,1,0.0,0.0
+929,Krimpen aan den IJssel,Ridderkerk,1,0.0,1011.0203
+930,Krimpen aan den IJssel,Capelle aan den IJssel,1,-2.9047768e-13,975.63458
+931,Kerkrade,Landgraaf,1,0.0,0.0
+932,Kerkrade,Heerlen,1,0.0,0.0
+933,Katwijk,Wassenaar,1,0.0,1.2692332e-11
+934,Katwijk,Teylingen,1,0.0,0.0
+935,Katwijk,Oegstgeest,1,0.0,1.22481e-11
+936,Katwijk,Noordwijk,1,0.0,0.0
+937,Katwijk,Leiden,1,0.0,0.0
+938,Kampen,Zwolle,1,0.0,0.0
+939,Kaag en Braassem,Uithoorn,1,0.0,0.0
+940,Kaag en Braassem,Teylingen,1,0.0,0.0
+941,Kaag en Braassem,Nieuwkoop,1,0.0,0.0
+942,Kaag en Braassem,Leiderdorp,1,1.3821331e-12,1.1057064e-11
+943,Kaag en Braassem,Haarlemmermeer,1,0.0,0.0
+944,Kaag en Braassem,Alphen aan den Rijn,1,0.0,0.0
+945,Kaag en Braassem,Aalsmeer,1,0.0,0.0
+946,IJsselstein,Utrecht,1,0.0,0.0
+947,IJsselstein,Nieuwegein,1,549.15748,549.15748
+948,Huizen,Laren,1,0.0,0.0
+949,Huizen,Hilversum,1,0.0,0.0
+950,Huizen,Gooise Meren,1,0.0,0.0
+951,Huizen,Blaricum,1,0.0,0.0
+952,Houten,Utrecht,1,0.0,0.0
+953,Houten,Nieuwegein,1,0.0,251.97821
+954,Houten,Culemborg,1,103.9522,103.9522
+955,Horst aan de Maas,Venlo,1,0.0,0.0
+956,Horst aan de Maas,Peel en Maas,1,0.0,0.0
+957,Hoorn,Medemblik,1,0.0,0.0
+958,Hilversum,Wijdemeren,1,0.0,0.0
+959,Hilversum,Weesp,1,0.0,0.0
+960,Hilversum,Laren,1,0.0,0.0
+961,Hilversum,Huizen,1,0.0,0.0
+962,Hilversum,Gooise Meren,1,0.0,0.0
+963,Hilversum,De Bilt,1,0.0,0.0
+964,Hilversum,Blaricum,1,0.0,0.0
+965,Hilversum,Baarn,1,0.0,0.0
+966,Hillegom,Noordwijk,1,0.0,0.0
+967,Hillegom,Lisse,1,0.0,0.0
+968,Hillegom,Haarlemmermeer,1,0.0,0.0
+969,Hillegom,Bloemendaal,1,0.0,0.0
+970,Heusden,Waalwijk,1,0.0,0.0
+971,Heusden,Vught,1,379.31079,379.31079
+972,Heusden,Tilburg,1,0.0,0.0
+973,Heusden,'s-Hertogenbosch,1,590.605,590.605
+974,Hengelo,Enschede,1,3.5799172e-12,17300.0
+975,Hengelo,Borne,1,24.716284,24.716284
+976,Hendrik-Ido-Ambacht,Zwijndrecht,1,0.0,0.0
+977,Hendrik-Ido-Ambacht,Ridderkerk,1,137.84532,996.35325
+978,Hendrik-Ido-Ambacht,Papendrecht,1,0.0,889.64553
+979,Hendrik-Ido-Ambacht,Alblasserdam,1,0.0,0.0
+980,Helmond,Someren,1,312.64424,312.64424
+981,Helmond,"Nuenen, Gerwen en Nederwetten",1,0.0,0.0
+982,Helmond,Geldrop-Mierlo,1,0.0,0.0
+983,Hellevoetsluis,Westvoorne,1,0.0,0.0
+984,Hellevoetsluis,Nissewaard,1,0.0,0.0
+985,Hellevoetsluis,Brielle,1,1851.7158,1851.7158
+986,Heiloo,Castricum,1,0.0,25.85154
+987,Heiloo,Alkmaar,1,0.0,24.946737
+988,Heerlen,Simpelveld,1,0.0,0.0
+989,Heerlen,Landgraaf,1,0.0,0.0
+990,Heerlen,Kerkrade,1,0.0,0.0
+991,Heerlen,Brunssum,1,0.0,0.0
+992,Heerhugowaard,Langedijk,1,4.6850392,245.24916
+993,Heerhugowaard,Alkmaar,1,0.0,24.073601
+994,Heemstede,Haarlemmermeer,1,0.0,0.0
+995,Heemstede,Haarlem,1,0.0,0.0
+996,Heemstede,Bloemendaal,1,0.0,0.0
+997,Heemskerk,Zaanstad,1,0.0,0.0
+998,Heemskerk,Castricum,1,0.0,26.789161
+999,Heemskerk,Beverwijk,1,341.07351,368.8343
+1000,Hardinxveld-Giessendam,Sliedrecht,1,0.0,0.0
+1001,Hardinxveld-Giessendam,Gorinchem,1,0.0,0.0
+1002,Hardinxveld-Giessendam,Dordrecht,1,86.054672,86.054672
+1003,Harderwijk,Zeewolde,1,0.0,0.0
+1004,Haarlemmermeer,Zaanstad,1,0.0,0.0
+1005,Haarlemmermeer,Velsen,1,0.0,114.54025
+1006,Haarlemmermeer,Teylingen,1,0.0,0.0
+1007,Haarlemmermeer,Lisse,1,0.0,0.0
+1008,Haarlemmermeer,Kaag en Braassem,1,0.0,0.0
+1009,Haarlemmermeer,Hillegom,1,0.0,0.0
+1010,Haarlemmermeer,Heemstede,1,0.0,0.0
+1011,Haarlemmermeer,Haarlem,1,5.5123992e-14,218.40688
+1012,Haarlemmermeer,Bloemendaal,1,0.0,0.0
+1013,Haarlemmermeer,Amsterdam,1,0.0,0.0
+1014,Haarlemmermeer,Amstelveen,1,0.0,37.779914
+1015,Haarlemmermeer,Aalsmeer,1,0.0,283.51406
+1016,Haarlem,Velsen,1,0.0,226.32837
+1017,Haarlem,Heemstede,1,0.0,0.0
+1018,Haarlem,Haarlemmermeer,1,0.0,218.40688
+1019,Haarlem,Bloemendaal,1,0.0,0.0
+1020,Groningen,Midden-Groningen,1,26281.0,26281.0
+1021,Gouda,Zuidplas,1,0.0,5100.0
+1022,Gouda,Waddinxveen,1,0.0,0.0
+1023,Gorinchem,Hardinxveld-Giessendam,1,0.0,0.0
+1024,Gooise Meren,Weesp,1,0.0,0.0
+1025,Gooise Meren,Huizen,1,0.0,0.0
+1026,Gooise Meren,Hilversum,1,0.0,0.0
+1027,Gooise Meren,Diemen,1,0.0,0.0
+1028,Gooise Meren,Amsterdam,1,0.0,0.0
+1029,Goirle,Tilburg,1,0.0,0.0
+1030,Geldrop-Mierlo,Someren,1,699.11715,699.11715
+1031,Geldrop-Mierlo,"Nuenen, Gerwen en Nederwetten",1,0.0,0.0
+1032,Geldrop-Mierlo,Helmond,1,0.0,0.0
+1033,Geldrop-Mierlo,Eindhoven,1,0.0,0.0
+1034,Geertruidenberg,Waalwijk,1,0.0,0.0
+1035,Geertruidenberg,Oosterhout,1,0.0,0.0
+1036,Geertruidenberg,Drimmelen,1,51.657973,1885.0108
+1037,Geertruidenberg,Dongen,1,0.0,269.82045
+1038,Etten-Leur,Moerdijk,1,19661.714,20353.114
+1039,Etten-Leur,Breda,1,-2.2431391e-13,667.2011
+1040,Enschede,Oldenzaal,1,0.0,0.0
+1041,Enschede,Hengelo,1,0.0,17300.0
+1042,Enkhuizen,Stede Broec,1,0.0,0.0
+1043,Enkhuizen,Medemblik,1,0.0,0.0
+1044,Enkhuizen,Lelystad,1,0.0,0.0
+1045,Eindhoven,Waalre,1,0.0,0.0
+1046,Eindhoven,Veldhoven,1,0.0,0.0
+1047,Eindhoven,Son en Breugel,1,0.0,0.0
+1048,Eindhoven,"Nuenen, Gerwen en Nederwetten",1,0.0,0.0
+1049,Eindhoven,Geldrop-Mierlo,1,0.0,0.0
+1050,Eindhoven,Best,1,0.0,0.0
+1051,Edam-Volendam,Purmerend,1,409.14223,409.14223
+1052,Duiven,Zevenaar,1,0.0,5.5774901
+1053,Duiven,Westervoort,1,0.0,3443.55
+1054,Duiven,Lingewaard,1,0.0,0.0
+1055,Drimmelen,Oosterhout,1,1515.5373,3993.3813
+1056,Drimmelen,Moerdijk,1,10120.513,14223.128
+1057,Drimmelen,Geertruidenberg,1,51.657973,1885.0108
+1058,Drimmelen,Dordrecht,1,0.0,364.94702
+1059,Drimmelen,Breda,1,0.0,0.0
+1060,Dordrecht,Zwijndrecht,1,-5.3917137e-14,351.73602
+1061,Dordrecht,Sliedrecht,1,1566.6356,1566.6356
+1062,Dordrecht,Papendrecht,1,0.0,4183.317
+1063,Dordrecht,Moerdijk,1,14349.619,14349.619
+1064,Dordrecht,Hardinxveld-Giessendam,1,86.054672,86.054672
+1065,Dordrecht,Drimmelen,1,0.0,364.94702
+1066,Dongen,Waalwijk,1,0.0,0.0
+1067,Dongen,Tilburg,1,0.0,1534.9722
+1068,Dongen,Oosterhout,1,4.8038445e-13,1320.8243
+1069,Dongen,Geertruidenberg,1,0.0,269.82045
+1070,Doetinchem,Zevenaar,1,0.0,0.0
+1071,Doesburg,Zevenaar,1,0.0,0.0
+1072,Doesburg,Rheden,1,0.0,231.23588
+1073,Diemen,Ouder-Amstel,1,0.0,0.0
+1074,Diemen,Gooise Meren,1,0.0,0.0
+1075,Diemen,Amsterdam,1,0.0,0.0
+1076,Delfzijl,Midden-Groningen,1,23400.0,23400.0
+1077,Delft,s-Gravenhage,1,0.0,0.0
+1078,Delft,Rotterdam,1,0.0,0.0
+1079,Delft,Rijswijk,1,0.0,0.0
+1080,Delft,Pijnacker-Nootdorp,1,5.2114023e-13,4199.2924
+1081,Delft,Midden-Delfland,1,1.0250857e-12,8628.2186
+1082,De Bilt,Zeist,1,0.0,0.0
+1083,De Bilt,Wijdemeren,1,0.0,0.0
+1084,De Bilt,Utrecht,1,0.0,0.0
+1085,De Bilt,Stichtse Vecht,1,0.0,0.0
+1086,De Bilt,Hilversum,1,0.0,0.0
+1087,De Bilt,Baarn,1,0.0,0.0
+1088,Culemborg,Houten,1,103.9522,103.9522
+1089,Castricum,Heiloo,1,0.0,25.85154
+1090,Castricum,Heemskerk,1,0.0,26.789161
+1091,Castricum,Alkmaar,1,0.0,0.0
+1092,Capelle aan den IJssel,Zuidplas,1,0.0,4921.5
+1093,Capelle aan den IJssel,Rotterdam,1,0.0,1287.666
+1094,Capelle aan den IJssel,Krimpen aan den IJssel,1,0.0,975.63458
+1095,Bunschoten,Nijkerk,1,0.0,0.0
+1096,Bunschoten,Baarn,1,0.0,0.0
+1097,Bunschoten,Amersfoort,1,0.0,0.0
+1098,Brunssum,Landgraaf,1,0.0,0.0
+1099,Brunssum,Heerlen,1,0.0,0.0
+1100,Brummen,Zutphen,1,4.18211e-12,4.18211e-12
+1101,Brummen,Rheden,1,-1.7104356e-12,9750.0
+1102,Brielle,Westvoorne,1,0.0,0.0
+1103,Brielle,Rotterdam,1,6942.9317,6942.9317
+1104,Brielle,Nissewaard,1,0.0,0.0
+1105,Brielle,Hellevoetsluis,1,1851.7158,1851.7158
+1106,Breda,Oosterhout,1,-1.0787568e-13,832.88734
+1107,Breda,Moerdijk,1,0.0,58124.138
+1108,Breda,Etten-Leur,1,0.0,667.2011
+1109,Breda,Drimmelen,1,0.0,0.0
+1110,Borsele,Vlissingen,1,10677.741,10677.741
+1111,Borsele,Middelburg,1,12572.259,12572.259
+1112,Borne,Hengelo,1,24.716284,24.716284
+1113,Borne,Almelo,1,0.0,0.0
+1114,Bloemendaal,Zandvoort,1,0.0,1151.3102
+1115,Bloemendaal,Velsen,1,0.0,1193.0675
+1116,Bloemendaal,Noordwijk,1,0.0,0.0
+1117,Bloemendaal,Hillegom,1,0.0,0.0
+1118,Bloemendaal,Heemstede,1,0.0,0.0
+1119,Bloemendaal,Haarlemmermeer,1,0.0,0.0
+1120,Bloemendaal,Haarlem,1,0.0,0.0
+1121,Blaricum,Laren,1,0.0,0.0
+1122,Blaricum,Huizen,1,0.0,0.0
+1123,Blaricum,Hilversum,1,0.0,0.0
+1124,Beverwijk,Zaanstad,1,0.0,0.0
+1125,Beverwijk,Velsen,1,4061.629,4090.3967
+1126,Beverwijk,Heemskerk,1,341.07351,368.8343
+1127,Best,Son en Breugel,1,0.0,0.0
+1128,Best,Eindhoven,1,0.0,0.0
+1129,Bergen op Zoom,Steenbergen,1,2405.3944,2405.3944
+1130,Bergen op Zoom,Roosendaal,1,0.0,0.0
+1131,Beesel,Venlo,1,0.0,0.0
+1132,Beesel,Roermond,1,0.0,563.63681
+1133,Beesel,Peel en Maas,1,0.0,0.0
+1134,Beek,Stein,1,0.0,0.0
+1135,Beek,Sittard-Geleen,1,71833.189,71833.189
+1136,Beek,Meerssen,1,60771.691,60771.691
+1137,Barendrecht,Zwijndrecht,1,0.0,339.42526
+1138,Barendrecht,Rotterdam,1,0.0,1104.2371
+1139,Barendrecht,Ridderkerk,1,0.0,0.0
+1140,Barendrecht,Albrandswaard,1,0.0,0.0
+1141,Baarn,Zeist,1,0.0,0.0
+1142,Baarn,Soest,1,0.0,0.0
+1143,Baarn,Laren,1,0.0,0.0
+1144,Baarn,Hilversum,1,0.0,0.0
+1145,Baarn,De Bilt,1,0.0,0.0
+1146,Baarn,Bunschoten,1,0.0,0.0
+1147,Baarn,Amersfoort,1,0.0,0.0
+1148,Assen,Aa en Hunze,1,3650.0,3650.0
+1149,Arnhem,Westervoort,1,0.0,0.0
+1150,Arnhem,Rheden,1,0.0,3455.3221
+1151,Arnhem,Renkum,1,0.0,0.0
+1152,Arnhem,Lingewaard,1,0.0,0.0
+1153,Amsterdam,Zaanstad,1,0.0,19047.849
+1154,Amsterdam,Weesp,1,0.0,0.0
+1155,Amsterdam,Ouder-Amstel,1,0.0,0.0
+1156,Amsterdam,Oostzaan,1,0.0,0.0
+1157,Amsterdam,Haarlemmermeer,1,0.0,0.0
+1158,Amsterdam,Gooise Meren,1,0.0,0.0
+1159,Amsterdam,Diemen,1,0.0,0.0
+1160,Amsterdam,Amstelveen,1,0.0,0.0
+1161,Amstelveen,Uithoorn,1,0.0,0.0
+1162,Amstelveen,Ouder-Amstel,1,0.0,0.0
+1163,Amstelveen,Haarlemmermeer,1,0.0,37.779914
+1164,Amstelveen,Amsterdam,1,0.0,0.0
+1165,Amstelveen,Aalsmeer,1,0.0,273.59107
+1166,Amersfoort,Zeist,1,0.0,0.0
+1167,Amersfoort,Soest,1,0.0,0.0
+1168,Amersfoort,Nijkerk,1,0.0,0.0
+1169,Amersfoort,Bunschoten,1,0.0,0.0
+1170,Amersfoort,Baarn,1,0.0,0.0
+1171,Alphen aan den Rijn,Zuidplas,1,0.0,0.0
+1172,Alphen aan den Rijn,Zoetermeer,1,0.0,0.0
+1173,Alphen aan den Rijn,Waddinxveen,1,0.0,0.0
+1174,Alphen aan den Rijn,Nieuwkoop,1,0.0,0.0
+1175,Alphen aan den Rijn,Leiderdorp,1,0.0,0.0
+1176,Alphen aan den Rijn,Lansingerland,1,0.0,0.0
+1177,Alphen aan den Rijn,Kaag en Braassem,1,0.0,0.0
+1178,Almere,Zeewolde,1,0.0,0.0
+1179,Almere,Lelystad,1,0.0,0.0
+1180,Almelo,Borne,1,0.0,0.0
+1181,Alkmaar,Zaanstad,1,0.0,0.0
+1182,Alkmaar,Langedijk,1,0.0,0.0
+1183,Alkmaar,Heiloo,1,0.0,24.946737
+1184,Alkmaar,Heerhugowaard,1,0.0,24.073601
+1185,Alkmaar,Castricum,1,0.0,0.0
+1186,Albrandswaard,Rotterdam,1,658.93542,658.93542
+1187,Albrandswaard,Nissewaard,1,0.0,0.0
+1188,Albrandswaard,Barendrecht,1,0.0,0.0
+1189,Alblasserdam,Ridderkerk,1,98.364365,287.54586
+1190,Alblasserdam,Papendrecht,1,342.83355,538.87654
+1191,Alblasserdam,Hendrik-Ido-Ambacht,1,0.0,0.0
+1192,Aalsmeer,Uithoorn,1,0.0,0.0
+1193,Aalsmeer,Kaag en Braassem,1,0.0,0.0
+1194,Aalsmeer,Haarlemmermeer,1,0.0,283.51406
+1195,Aalsmeer,Amstelveen,1,0.0,273.59107
+1196,Aa en Hunze,Midden-Groningen,1,0.0,0.0
+1197,Aa en Hunze,Assen,1,3650.0,3650.0
+1198,'s-Hertogenbosch,Vught,1,0.0,0.0
+1199,'s-Hertogenbosch,Heusden,1,590.605,590.605
+1200,s-Gravenhage,Zoetermeer,2,0.0,0.0
+1201,s-Gravenhage,Westland,2,-3.8929003e-12,31050.11
+1202,s-Gravenhage,Wassenaar,2,0.0,6.6934735e-12
+1203,s-Gravenhage,Rijswijk,2,0.0,0.0
+1204,s-Gravenhage,Pijnacker-Nootdorp,2,0.0,0.0
+1205,s-Gravenhage,Leidschendam-Voorburg,2,0.0,-6.459202e-12
+1206,s-Gravenhage,Delft,2,0.0,0.0
+1207,Zwolle,Kampen,2,0.0,0.0
+1208,Zwijndrecht,Ridderkerk,2,0.0,51.53124
+1209,Zwijndrecht,Papendrecht,2,0.0,0.0
+1210,Zwijndrecht,Hendrik-Ido-Ambacht,2,0.0,0.0
+1211,Zwijndrecht,Dordrecht,2,0.0,351.73602
+1212,Zwijndrecht,Barendrecht,2,0.0,339.42526
+1213,Zutphen,Brummen,2,0.0,4.18211e-12
+1214,Zuidplas,Waddinxveen,2,0.0,0.0
+1215,Zuidplas,Rotterdam,2,0.0,0.0
+1216,Zuidplas,Lansingerland,2,0.0,0.0
+1217,Zuidplas,Gouda,2,-1.0496147e-12,5100.0
+1218,Zuidplas,Capelle aan den IJssel,2,1116.2424,6037.7424
+1219,Zuidplas,Alphen aan den Rijn,2,0.0,0.0
+1220,Zoetermeer,s-Gravenhage,2,0.0,0.0
+1221,Zoetermeer,Pijnacker-Nootdorp,2,0.0,1696.933
+1222,Zoetermeer,Leidschendam-Voorburg,2,0.0,0.0
+1223,Zoetermeer,Lansingerland,2,6900.7142,7981.6436
+1224,Zoetermeer,Alphen aan den Rijn,2,0.0,0.0
+1225,Zevenaar,Westervoort,2,0.0,0.0
+1226,Zevenaar,Rheden,2,0.0,506.49633
+1227,Zevenaar,Lingewaard,2,0.0,0.0
+1228,Zevenaar,Duiven,2,0.0,5.5774901
+1229,Zevenaar,Doetinchem,2,0.0,0.0
+1230,Zevenaar,Doesburg,2,0.0,0.0
+1231,Zeist,Utrecht,2,0.0,0.0
+1232,Zeist,Soest,2,0.0,0.0
+1233,Zeist,De Bilt,2,0.0,0.0
+1234,Zeist,Baarn,2,0.0,0.0
+1235,Zeist,Amersfoort,2,0.0,0.0
+1236,Zeewolde,Nijkerk,2,0.0,0.0
+1237,Zeewolde,Lelystad,2,0.0,0.0
+1238,Zeewolde,Harderwijk,2,0.0,0.0
+1239,Zeewolde,Almere,2,0.0,0.0
+1240,Zandvoort,Noordwijk,2,0.0,0.0
+1241,Zandvoort,Bloemendaal,2,1.5874137e-13,1151.3102
+1242,Zaanstad,Velsen,2,0.0,19738.703
+1243,Zaanstad,Oostzaan,2,0.0,0.0
+1244,Zaanstad,Heemskerk,2,0.0,0.0
+1245,Zaanstad,Haarlemmermeer,2,0.0,0.0
+1246,Zaanstad,Beverwijk,2,0.0,0.0
+1247,Zaanstad,Amsterdam,2,0.0,19047.849
+1248,Zaanstad,Alkmaar,2,0.0,0.0
+1249,Woerden,Utrecht,2,0.0,0.0
+1250,Woerden,Stichtse Vecht,2,0.0,0.0
+1251,Woerden,Nieuwkoop,2,0.0,0.0
+1252,Wijdemeren,Weesp,2,0.0,0.0
+1253,Wijdemeren,Stichtse Vecht,2,0.0,0.0
+1254,Wijdemeren,Hilversum,2,0.0,0.0
+1255,Wijdemeren,De Bilt,2,0.0,0.0
+1256,Westvoorne,Rotterdam,2,4.3991481e-13,2952.5007
+1257,Westvoorne,Hellevoetsluis,2,0.0,0.0
+1258,Westvoorne,Brielle,2,0.0,0.0
+1259,Westland,s-Gravenhage,2,0.0,31050.11
+1260,Westland,Rotterdam,2,-7.030124e-12,47242.141
+1261,Westland,Rijswijk,2,647.14636,647.14636
+1262,Westland,Midden-Delfland,2,0.0,0.0
+1263,Westland,Maassluis,2,0.0,903.08031
+1264,Westervoort,Zevenaar,2,0.0,0.0
+1265,Westervoort,Rheden,2,0.0,5215.6957
+1266,Westervoort,Lingewaard,2,0.0,0.0
+1267,Westervoort,Duiven,2,0.0,3443.55
+1268,Westervoort,Arnhem,2,0.0,0.0
+1269,Weesp,Wijdemeren,2,0.0,0.0
+1270,Weesp,Stichtse Vecht,2,0.0,0.0
+1271,Weesp,Hilversum,2,0.0,0.0
+1272,Weesp,Gooise Meren,2,0.0,0.0
+1273,Weesp,Amsterdam,2,0.0,0.0
+1274,Wassenaar,s-Gravenhage,2,0.0,6.6934735e-12
+1275,Wassenaar,Voorschoten,2,0.0,0.0
+1276,Wassenaar,Leidschendam-Voorburg,2,0.0,6.459202e-12
+1277,Wassenaar,Leiden,2,0.0,0.0
+1278,Wassenaar,Katwijk,2,0.0,1.2692332e-11
+1279,Wageningen,Renkum,2,0.0,0.0
+1280,Waddinxveen,Zuidplas,2,0.0,0.0
+1281,Waddinxveen,Gouda,2,1508.3486,1508.3486
+1282,Waddinxveen,Alphen aan den Rijn,2,0.0,0.0
+1283,Waalwijk,Heusden,2,0.0,0.0
+1284,Waalwijk,Geertruidenberg,2,0.0,0.0
+1285,Waalwijk,Dongen,2,0.0,0.0
+1286,Waalre,Veldhoven,2,0.0,0.0
+1287,Waalre,Valkenswaard,2,0.0,0.0
+1288,Waalre,Eindhoven,2,0.0,0.0
+1289,Vught,Heusden,2,4.9722478e-13,379.31079
+1290,Vught,'s-Hertogenbosch,2,0.0,0.0
+1291,Voorschoten,Wassenaar,2,0.0,0.0
+1292,Voorschoten,Leidschendam-Voorburg,2,0.0,-1.2439198e-11
+1293,Voorschoten,Leiden,2,0.0,0.0
+1294,Vlissingen,Middelburg,2,0.0,10.20676
+1295,Vlissingen,Borsele,2,0.0,10677.741
+1296,Vlaardingen,Schiedam,2,0.0,0.0
+1297,Vlaardingen,Rotterdam,2,1.1500543e-12,6872.7614
+1298,Vlaardingen,Midden-Delfland,2,0.0,5.1345243e-13
+1299,Vlaardingen,Maassluis,2,0.0,0.0
+1300,Venlo,Peel en Maas,2,0.0,0.0
+1301,Venlo,Horst aan de Maas,2,0.0,0.0
+1302,Venlo,Beesel,2,0.0,0.0
+1303,Velsen,Zaanstad,2,0.0,19738.703
+1304,Velsen,Haarlemmermeer,2,0.0,114.54025
+1305,Velsen,Haarlem,2,0.0,226.32837
+1306,Velsen,Bloemendaal,2,0.0,1193.0675
+1307,Velsen,Beverwijk,2,0.0,4090.3967
+1308,Veldhoven,Waalre,2,0.0,0.0
+1309,Veldhoven,Eindhoven,2,0.0,0.0
+1310,Valkenswaard,Waalre,2,0.0,0.0
+1311,Valkenburg aan de Geul,Meerssen,2,0.0,7219.6862
+1312,Valkenburg aan de Geul,Maastricht,2,0.0,0.0
+1313,Utrecht,Zeist,2,0.0,0.0
+1314,Utrecht,Woerden,2,0.0,0.0
+1315,Utrecht,Stichtse Vecht,2,0.0,0.0
+1316,Utrecht,Nieuwegein,2,0.0,0.0
+1317,Utrecht,IJsselstein,2,0.0,0.0
+1318,Utrecht,Houten,2,0.0,0.0
+1319,Utrecht,De Bilt,2,0.0,0.0
+1320,Uithoorn,Nieuwkoop,2,0.0,0.0
+1321,Uithoorn,Kaag en Braassem,2,0.0,0.0
+1322,Uithoorn,Amstelveen,2,0.0,0.0
+1323,Uithoorn,Aalsmeer,2,0.0,0.0
+1324,Tilburg,Heusden,2,0.0,0.0
+1325,Tilburg,Goirle,2,0.0,0.0
+1326,Tilburg,Dongen,2,-2.3679289e-13,1534.9722
+1327,Teylingen,Oegstgeest,2,0.0,-1.0331873e-11
+1328,Teylingen,Noordwijk,2,0.0,0.0
+1329,Teylingen,Lisse,2,0.0,0.0
+1330,Teylingen,Leiderdorp,2,0.0,0.0
+1331,Teylingen,Leiden,2,0.0,0.0
+1332,Teylingen,Katwijk,2,0.0,0.0
+1333,Teylingen,Kaag en Braassem,2,0.0,0.0
+1334,Teylingen,Haarlemmermeer,2,0.0,0.0
+1335,Stichtse Vecht,Woerden,2,0.0,0.0
+1336,Stichtse Vecht,Wijdemeren,2,0.0,0.0
+1337,Stichtse Vecht,Weesp,2,0.0,0.0
+1338,Stichtse Vecht,Utrecht,2,0.0,0.0
+1339,Stichtse Vecht,De Bilt,2,0.0,0.0
+1340,Stein,Sittard-Geleen,2,4662.8916,20341.983
+1341,Stein,Meerssen,2,0.0,858.27071
+1342,Stein,Beek,2,0.0,0.0
+1343,Steenbergen,Roosendaal,2,0.0,5594.6056
+1344,Steenbergen,Moerdijk,2,0.0,0.0
+1345,Steenbergen,Bergen op Zoom,2,0.0,2405.3944
+1346,Stede Broec,Medemblik,2,0.0,0.0
+1347,Stede Broec,Enkhuizen,2,0.0,0.0
+1348,Son en Breugel,"Nuenen, Gerwen en Nederwetten",2,0.0,0.0
+1349,Son en Breugel,Eindhoven,2,0.0,0.0
+1350,Son en Breugel,Best,2,0.0,0.0
+1351,Someren,Helmond,2,0.0,312.64424
+1352,Someren,Geldrop-Mierlo,2,925.94622,1625.0634
+1353,Soest,Zeist,2,0.0,0.0
+1354,Soest,Baarn,2,0.0,0.0
+1355,Soest,Amersfoort,2,0.0,0.0
+1356,Sliedrecht,Papendrecht,2,0.0,0.0
+1357,Sliedrecht,Hardinxveld-Giessendam,2,0.0,0.0
+1358,Sliedrecht,Dordrecht,2,0.0,1566.6356
+1359,Sittard-Geleen,Stein,2,4662.8916,20341.983
+1360,Sittard-Geleen,Beek,2,199.53203,72032.721
+1361,Simpelveld,Heerlen,2,0.0,0.0
+1362,Schiedam,Vlaardingen,2,0.0,0.0
+1363,Schiedam,Rotterdam,2,0.0,5344.0712
+1364,Schiedam,Midden-Delfland,2,0.0,0.0
+1365,Rotterdam,Zuidplas,2,0.0,0.0
+1366,Rotterdam,Westvoorne,2,0.0,2952.5007
+1367,Rotterdam,Westland,2,0.0,47242.141
+1368,Rotterdam,Vlaardingen,2,0.0,6872.7614
+1369,Rotterdam,Schiedam,2,0.0,5344.0712
+1370,Rotterdam,Ridderkerk,2,0.0,0.0
+1371,Rotterdam,Pijnacker-Nootdorp,2,0.0,11509.745
+1372,Rotterdam,Nissewaard,2,0.0,4683.6474
+1373,Rotterdam,Midden-Delfland,2,0.0,15190.994
+1374,Rotterdam,Maassluis,2,0.0,3623.3241
+1375,Rotterdam,Lansingerland,2,0.0,10056.331
+1376,Rotterdam,Krimpen aan den IJssel,2,0.0,0.0
+1377,Rotterdam,Delft,2,0.0,0.0
+1378,Rotterdam,Capelle aan den IJssel,2,0.0,1287.666
+1379,Rotterdam,Brielle,2,0.0,6942.9317
+1380,Rotterdam,Barendrecht,2,0.0,1104.2371
+1381,Rotterdam,Albrandswaard,2,0.0,658.93542
+1382,Roosendaal,Steenbergen,2,-9.0590152e-13,5594.6056
+1383,Roosendaal,Bergen op Zoom,2,0.0,0.0
+1384,Roermond,Maasgouw,2,0.0,0.0
+1385,Roermond,Beesel,2,0.0,563.63681
+1386,Rijswijk,s-Gravenhage,2,0.0,0.0
+1387,Rijswijk,Westland,2,647.14636,647.14636
+1388,Rijswijk,Midden-Delfland,2,0.0,0.0
+1389,Rijswijk,Delft,2,0.0,0.0
+1390,Ridderkerk,Zwijndrecht,2,-8.6654031e-15,51.53124
+1391,Ridderkerk,Rotterdam,2,0.0,0.0
+1392,Ridderkerk,Krimpen aan den IJssel,2,0.0,1011.0203
+1393,Ridderkerk,Hendrik-Ido-Ambacht,2,0.0,996.35325
+1394,Ridderkerk,Barendrecht,2,0.0,0.0
+1395,Ridderkerk,Alblasserdam,2,0.0,287.54586
+1396,Rheden,Zevenaar,2,0.0,506.49633
+1397,Rheden,Westervoort,2,0.0,5215.6957
+1398,Rheden,Doesburg,2,0.0,231.23588
+1399,Rheden,Brummen,2,1.9094495e-12,9750.0
+1400,Rheden,Arnhem,2,4.663886e-13,3455.3221
+1401,Renkum,Wageningen,2,0.0,0.0
+1402,Renkum,Arnhem,2,0.0,0.0
+1403,Purmerend,Edam-Volendam,2,0.0,409.14223
+1404,Pijnacker-Nootdorp,s-Gravenhage,2,0.0,0.0
+1405,Pijnacker-Nootdorp,Zoetermeer,2,-5.3325971e-13,1696.933
+1406,Pijnacker-Nootdorp,Rotterdam,2,0.0,11509.745
+1407,Pijnacker-Nootdorp,Lansingerland,2,0.0,0.0
+1408,Pijnacker-Nootdorp,Delft,2,-7.5630925e-12,4199.2924
+1409,Peel en Maas,Venlo,2,0.0,0.0
+1410,Peel en Maas,Horst aan de Maas,2,0.0,0.0
+1411,Peel en Maas,Beesel,2,573.03319,573.03319
+1412,Papendrecht,Zwijndrecht,2,0.0,0.0
+1413,Papendrecht,Sliedrecht,2,0.0,0.0
+1414,Papendrecht,Hendrik-Ido-Ambacht,2,0.0,889.64553
+1415,Papendrecht,Dordrecht,2,0.0,4183.317
+1416,Papendrecht,Alblasserdam,2,0.0,538.87654
+1417,Ouder-Amstel,Diemen,2,0.0,0.0
+1418,Ouder-Amstel,Amsterdam,2,0.0,0.0
+1419,Ouder-Amstel,Amstelveen,2,103.8804,103.8804
+1420,Oostzaan,Zaanstad,2,0.0,0.0
+1421,Oostzaan,Amsterdam,2,0.0,0.0
+1422,Oosterhout,Geertruidenberg,2,0.0,0.0
+1423,Oosterhout,Drimmelen,2,0.0,3993.3813
+1424,Oosterhout,Dongen,2,5.3627852e-13,1320.8243
+1425,Oosterhout,Breda,2,1.2042732e-13,832.88734
+1426,Oldenzaal,Enschede,2,0.0,0.0
+1427,Oegstgeest,Teylingen,2,0.0,-1.0331873e-11
+1428,Oegstgeest,Leiden,2,0.0,0.0
+1429,Oegstgeest,Katwijk,2,2091.1942,2091.1942
+1430,"Nuenen, Gerwen en Nederwetten",Son en Breugel,2,0.0,0.0
+1431,"Nuenen, Gerwen en Nederwetten",Helmond,2,0.0,0.0
+1432,"Nuenen, Gerwen en Nederwetten",Geldrop-Mierlo,2,0.0,0.0
+1433,"Nuenen, Gerwen en Nederwetten",Eindhoven,2,0.0,0.0
+1434,Noordwijk,Zandvoort,2,0.0,0.0
+1435,Noordwijk,Teylingen,2,0.0,0.0
+1436,Noordwijk,Lisse,2,0.0,0.0
+1437,Noordwijk,Katwijk,2,0.0,0.0
+1438,Noordwijk,Hillegom,2,0.0,0.0
+1439,Noordwijk,Bloemendaal,2,0.0,0.0
+1440,Nissewaard,Rotterdam,2,0.0,4683.6474
+1441,Nissewaard,Hellevoetsluis,2,0.0,0.0
+1442,Nissewaard,Brielle,2,0.0,0.0
+1443,Nissewaard,Albrandswaard,2,0.0,0.0
+1444,Nijmegen,Lingewaard,2,0.0,0.0
+1445,Nijkerk,Zeewolde,2,0.0,0.0
+1446,Nijkerk,Bunschoten,2,0.0,0.0
+1447,Nijkerk,Amersfoort,2,0.0,0.0
+1448,Nieuwkoop,Woerden,2,0.0,0.0
+1449,Nieuwkoop,Uithoorn,2,0.0,0.0
+1450,Nieuwkoop,Kaag en Braassem,2,0.0,0.0
+1451,Nieuwkoop,Alphen aan den Rijn,2,1243.4995,1243.4995
+1452,Nieuwegein,Utrecht,2,0.0,0.0
+1453,Nieuwegein,IJsselstein,2,0.0,549.15748
+1454,Nieuwegein,Houten,2,0.0,251.97821
+1455,Moerdijk,Steenbergen,2,0.0,0.0
+1456,Moerdijk,Etten-Leur,2,0.0,20353.114
+1457,Moerdijk,Drimmelen,2,0.0,14223.128
+1458,Moerdijk,Dordrecht,2,0.0,14349.619
+1459,Moerdijk,Breda,2,2.625696e-11,58124.138
+1460,Midden-Groningen,Groningen,2,-6.6699396e-12,26281.0
+1461,Midden-Groningen,Delfzijl,2,0.0,23400.0
+1462,Midden-Groningen,Aa en Hunze,2,0.0,0.0
+1463,Midden-Delfland,Westland,2,0.0,0.0
+1464,Midden-Delfland,Vlaardingen,2,0.0,5.1345243e-13
+1465,Midden-Delfland,Schiedam,2,0.0,0.0
+1466,Midden-Delfland,Rotterdam,2,0.0,15190.994
+1467,Midden-Delfland,Rijswijk,2,0.0,0.0
+1468,Midden-Delfland,Maassluis,2,0.0,0.0
+1469,Midden-Delfland,Delft,2,-1.1443573e-12,8628.2186
+1470,Middelburg,Vlissingen,2,0.0,10.20676
+1471,Middelburg,Borsele,2,-1.8008586e-12,12572.259
+1472,Meerssen,Valkenburg aan de Geul,2,0.0,7219.6862
+1473,Meerssen,Stein,2,-9.8462588e-13,858.27071
+1474,Meerssen,Maastricht,2,0.0,44827.338
+1475,Meerssen,Beek,2,8.8944876e-12,60771.691
+1476,Medemblik,Stede Broec,2,0.0,0.0
+1477,Medemblik,Hoorn,2,3709.2516,3709.2516
+1478,Medemblik,Enkhuizen,2,0.0,0.0
+1479,Maastricht,Valkenburg aan de Geul,2,0.0,0.0
+1480,Maastricht,Meerssen,2,0.0,44827.338
+1481,Maassluis,Westland,2,-2.4719736e-13,903.08031
+1482,Maassluis,Vlaardingen,2,0.0,0.0
+1483,Maassluis,Rotterdam,2,-5.568398e-13,3623.3241
+1484,Maassluis,Midden-Delfland,2,0.0,0.0
+1485,Maasgouw,Roermond,2,0.0,0.0
+1486,Lisse,Teylingen,2,0.0,0.0
+1487,Lisse,Noordwijk,2,0.0,0.0
+1488,Lisse,Hillegom,2,0.0,0.0
+1489,Lisse,Haarlemmermeer,2,0.0,0.0
+1490,Lingewaard,Zevenaar,2,0.0,0.0
+1491,Lingewaard,Westervoort,2,0.0,0.0
+1492,Lingewaard,Nijmegen,2,0.0,0.0
+1493,Lingewaard,Duiven,2,0.0,0.0
+1494,Lingewaard,Arnhem,2,0.0,0.0
+1495,Lelystad,Zeewolde,2,0.0,0.0
+1496,Lelystad,Enkhuizen,2,0.0,0.0
+1497,Lelystad,Almere,2,0.0,0.0
+1498,Leidschendam-Voorburg,s-Gravenhage,2,0.0,-6.459202e-12
+1499,Leidschendam-Voorburg,Zoetermeer,2,0.0,0.0
+1500,Leidschendam-Voorburg,Wassenaar,2,0.0,6.459202e-12
+1501,Leidschendam-Voorburg,Voorschoten,2,-5.9181924e-13,-1.2439198e-11
+1502,Leidschendam-Voorburg,Leiden,2,0.0,0.0
+1503,Leiderdorp,Teylingen,2,0.0,0.0
+1504,Leiderdorp,Leiden,2,0.0,0.0
+1505,Leiderdorp,Kaag en Braassem,2,1053.5099,1053.5099
+1506,Leiderdorp,Alphen aan den Rijn,2,0.0,0.0
+1507,Leiden,Wassenaar,2,0.0,0.0
+1508,Leiden,Voorschoten,2,0.0,0.0
+1509,Leiden,Teylingen,2,0.0,0.0
+1510,Leiden,Oegstgeest,2,0.0,0.0
+1511,Leiden,Leidschendam-Voorburg,2,0.0,0.0
+1512,Leiden,Leiderdorp,2,0.0,0.0
+1513,Leiden,Katwijk,2,0.0,0.0
+1514,Laren,Huizen,2,0.0,0.0
+1515,Laren,Hilversum,2,0.0,0.0
+1516,Laren,Blaricum,2,0.0,0.0
+1517,Laren,Baarn,2,0.0,0.0
+1518,Lansingerland,Zuidplas,2,0.0,0.0
+1519,Lansingerland,Zoetermeer,2,6900.7142,7981.6436
+1520,Lansingerland,Rotterdam,2,0.0,10056.331
+1521,Lansingerland,Pijnacker-Nootdorp,2,0.0,0.0
+1522,Lansingerland,Alphen aan den Rijn,2,0.0,0.0
+1523,Langedijk,Heerhugowaard,2,0.0,245.24916
+1524,Langedijk,Alkmaar,2,0.0,0.0
+1525,Landgraaf,Kerkrade,2,0.0,0.0
+1526,Landgraaf,Heerlen,2,0.0,0.0
+1527,Landgraaf,Brunssum,2,0.0,0.0
+1528,Krimpen aan den IJssel,Rotterdam,2,0.0,0.0
+1529,Krimpen aan den IJssel,Ridderkerk,2,0.0,1011.0203
+1530,Krimpen aan den IJssel,Capelle aan den IJssel,2,0.0,975.63458
+1531,Kerkrade,Landgraaf,2,0.0,0.0
+1532,Kerkrade,Heerlen,2,0.0,0.0
+1533,Katwijk,Wassenaar,2,0.0,1.2692332e-11
+1534,Katwijk,Teylingen,2,0.0,0.0
+1535,Katwijk,Oegstgeest,2,2091.1942,2091.1942
+1536,Katwijk,Noordwijk,2,0.0,0.0
+1537,Katwijk,Leiden,2,0.0,0.0
+1538,Kampen,Zwolle,2,0.0,0.0
+1539,Kaag en Braassem,Uithoorn,2,0.0,0.0
+1540,Kaag en Braassem,Teylingen,2,0.0,0.0
+1541,Kaag en Braassem,Nieuwkoop,2,0.0,0.0
+1542,Kaag en Braassem,Leiderdorp,2,1053.5099,1053.5099
+1543,Kaag en Braassem,Haarlemmermeer,2,0.0,0.0
+1544,Kaag en Braassem,Alphen aan den Rijn,2,0.0,0.0
+1545,Kaag en Braassem,Aalsmeer,2,0.0,0.0
+1546,IJsselstein,Utrecht,2,0.0,0.0
+1547,IJsselstein,Nieuwegein,2,0.0,549.15748
+1548,Huizen,Laren,2,0.0,0.0
+1549,Huizen,Hilversum,2,0.0,0.0
+1550,Huizen,Gooise Meren,2,0.0,0.0
+1551,Huizen,Blaricum,2,0.0,0.0
+1552,Houten,Utrecht,2,0.0,0.0
+1553,Houten,Nieuwegein,2,0.0,251.97821
+1554,Houten,Culemborg,2,4.1675932e-12,103.9522
+1555,Horst aan de Maas,Venlo,2,0.0,0.0
+1556,Horst aan de Maas,Peel en Maas,2,0.0,0.0
+1557,Hoorn,Medemblik,2,3709.2516,3709.2516
+1558,Hilversum,Wijdemeren,2,0.0,0.0
+1559,Hilversum,Weesp,2,0.0,0.0
+1560,Hilversum,Laren,2,0.0,0.0
+1561,Hilversum,Huizen,2,0.0,0.0
+1562,Hilversum,Gooise Meren,2,0.0,0.0
+1563,Hilversum,De Bilt,2,0.0,0.0
+1564,Hilversum,Blaricum,2,0.0,0.0
+1565,Hilversum,Baarn,2,0.0,0.0
+1566,Hillegom,Noordwijk,2,0.0,0.0
+1567,Hillegom,Lisse,2,0.0,0.0
+1568,Hillegom,Haarlemmermeer,2,0.0,0.0
+1569,Hillegom,Bloemendaal,2,0.0,0.0
+1570,Heusden,Waalwijk,2,0.0,0.0
+1571,Heusden,Vught,2,0.0,379.31079
+1572,Heusden,Tilburg,2,0.0,0.0
+1573,Heusden,'s-Hertogenbosch,2,0.0,590.605
+1574,Hengelo,Enschede,2,1.9982253e-12,17300.0
+1575,Hengelo,Borne,2,0.0,24.716284
+1576,Hendrik-Ido-Ambacht,Zwijndrecht,2,0.0,0.0
+1577,Hendrik-Ido-Ambacht,Ridderkerk,2,-1.4814878e-13,996.35325
+1578,Hendrik-Ido-Ambacht,Papendrecht,2,0.0,889.64553
+1579,Hendrik-Ido-Ambacht,Alblasserdam,2,0.0,0.0
+1580,Helmond,Someren,2,-5.8363696e-14,312.64424
+1581,Helmond,"Nuenen, Gerwen en Nederwetten",2,0.0,0.0
+1582,Helmond,Geldrop-Mierlo,2,0.0,0.0
+1583,Hellevoetsluis,Westvoorne,2,0.0,0.0
+1584,Hellevoetsluis,Nissewaard,2,0.0,0.0
+1585,Hellevoetsluis,Brielle,2,0.0,1851.7158
+1586,Heiloo,Castricum,2,0.0,25.85154
+1587,Heiloo,Alkmaar,2,0.0,24.946737
+1588,Heerlen,Simpelveld,2,0.0,0.0
+1589,Heerlen,Landgraaf,2,0.0,0.0
+1590,Heerlen,Kerkrade,2,0.0,0.0
+1591,Heerlen,Brunssum,2,0.0,0.0
+1592,Heerhugowaard,Langedijk,2,-3.7427677e-14,245.24916
+1593,Heerhugowaard,Alkmaar,2,0.0,24.073601
+1594,Heemstede,Haarlemmermeer,2,0.0,0.0
+1595,Heemstede,Haarlem,2,0.0,0.0
+1596,Heemstede,Bloemendaal,2,0.0,0.0
+1597,Heemskerk,Zaanstad,2,0.0,0.0
+1598,Heemskerk,Castricum,2,8.7381822e-15,26.789161
+1599,Heemskerk,Beverwijk,2,-8.1114802e-14,368.8343
+1600,Hardinxveld-Giessendam,Sliedrecht,2,0.0,0.0
+1601,Hardinxveld-Giessendam,Gorinchem,2,0.0,0.0
+1602,Hardinxveld-Giessendam,Dordrecht,2,0.0,86.054672
+1603,Harderwijk,Zeewolde,2,0.0,0.0
+1604,Haarlemmermeer,Zaanstad,2,0.0,0.0
+1605,Haarlemmermeer,Velsen,2,0.0,114.54025
+1606,Haarlemmermeer,Teylingen,2,0.0,0.0
+1607,Haarlemmermeer,Lisse,2,0.0,0.0
+1608,Haarlemmermeer,Kaag en Braassem,2,0.0,0.0
+1609,Haarlemmermeer,Hillegom,2,0.0,0.0
+1610,Haarlemmermeer,Heemstede,2,0.0,0.0
+1611,Haarlemmermeer,Haarlem,2,0.0,218.40688
+1612,Haarlemmermeer,Bloemendaal,2,0.0,0.0
+1613,Haarlemmermeer,Amsterdam,2,0.0,0.0
+1614,Haarlemmermeer,Amstelveen,2,0.0,37.779914
+1615,Haarlemmermeer,Aalsmeer,2,0.0,283.51406
+1616,Haarlem,Velsen,2,0.0,226.32837
+1617,Haarlem,Heemstede,2,0.0,0.0
+1618,Haarlem,Haarlemmermeer,2,0.0,218.40688
+1619,Haarlem,Bloemendaal,2,0.0,0.0
+1620,Groningen,Midden-Groningen,2,0.0,26281.0
+1621,Gouda,Zuidplas,2,0.0,5100.0
+1622,Gouda,Waddinxveen,2,1508.3486,1508.3486
+1623,Gorinchem,Hardinxveld-Giessendam,2,0.0,0.0
+1624,Gooise Meren,Weesp,2,0.0,0.0
+1625,Gooise Meren,Huizen,2,0.0,0.0
+1626,Gooise Meren,Hilversum,2,0.0,0.0
+1627,Gooise Meren,Diemen,2,0.0,0.0
+1628,Gooise Meren,Amsterdam,2,0.0,0.0
+1629,Goirle,Tilburg,2,0.0,0.0
+1630,Geldrop-Mierlo,Someren,2,925.94622,1625.0634
+1631,Geldrop-Mierlo,"Nuenen, Gerwen en Nederwetten",2,0.0,0.0
+1632,Geldrop-Mierlo,Helmond,2,0.0,0.0
+1633,Geldrop-Mierlo,Eindhoven,2,0.0,0.0
+1634,Geertruidenberg,Waalwijk,2,0.0,0.0
+1635,Geertruidenberg,Oosterhout,2,0.0,0.0
+1636,Geertruidenberg,Drimmelen,2,0.0,1885.0108
+1637,Geertruidenberg,Dongen,2,3.1110331e-14,269.82045
+1638,Etten-Leur,Moerdijk,2,0.0,20353.114
+1639,Etten-Leur,Breda,2,1.2520673e-13,667.2011
+1640,Enschede,Oldenzaal,2,0.0,0.0
+1641,Enschede,Hengelo,2,0.0,17300.0
+1642,Enkhuizen,Stede Broec,2,0.0,0.0
+1643,Enkhuizen,Medemblik,2,0.0,0.0
+1644,Enkhuizen,Lelystad,2,0.0,0.0
+1645,Eindhoven,Waalre,2,0.0,0.0
+1646,Eindhoven,Veldhoven,2,0.0,0.0
+1647,Eindhoven,Son en Breugel,2,0.0,0.0
+1648,Eindhoven,"Nuenen, Gerwen en Nederwetten",2,0.0,0.0
+1649,Eindhoven,Geldrop-Mierlo,2,0.0,0.0
+1650,Eindhoven,Best,2,0.0,0.0
+1651,Edam-Volendam,Purmerend,2,1.9201801e-12,409.14223
+1652,Duiven,Zevenaar,2,0.0,5.5774901
+1653,Duiven,Westervoort,2,0.0,3443.55
+1654,Duiven,Lingewaard,2,0.0,0.0
+1655,Drimmelen,Oosterhout,2,0.0,3993.3813
+1656,Drimmelen,Moerdijk,2,-1.6868286e-12,14223.128
+1657,Drimmelen,Geertruidenberg,2,0.0,1885.0108
+1658,Drimmelen,Dordrecht,2,5.7319274e-14,364.94702
+1659,Drimmelen,Breda,2,0.0,0.0
+1660,Dordrecht,Zwijndrecht,2,0.0,351.73602
+1661,Dordrecht,Sliedrecht,2,1.7918699e-12,1566.6356
+1662,Dordrecht,Papendrecht,2,-1.159821e-12,4183.317
+1663,Dordrecht,Moerdijk,2,6.2647783e-12,14349.619
+1664,Dordrecht,Hardinxveld-Giessendam,2,0.0,86.054672
+1665,Dordrecht,Drimmelen,2,0.0,364.94702
+1666,Dongen,Waalwijk,2,0.0,0.0
+1667,Dongen,Tilburg,2,0.0,1534.9722
+1668,Dongen,Oosterhout,2,0.0,1320.8243
+1669,Dongen,Geertruidenberg,2,0.0,269.82045
+1670,Doetinchem,Zevenaar,2,0.0,0.0
+1671,Doesburg,Zevenaar,2,0.0,0.0
+1672,Doesburg,Rheden,2,0.0,231.23588
+1673,Diemen,Ouder-Amstel,2,0.0,0.0
+1674,Diemen,Gooise Meren,2,0.0,0.0
+1675,Diemen,Amsterdam,2,0.0,0.0
+1676,Delfzijl,Midden-Groningen,2,0.0,23400.0
+1677,Delft,s-Gravenhage,2,0.0,0.0
+1678,Delft,Rotterdam,2,0.0,0.0
+1679,Delft,Rijswijk,2,0.0,0.0
+1680,Delft,Pijnacker-Nootdorp,2,0.0,4199.2924
+1681,Delft,Midden-Delfland,2,0.0,8628.2186
+1682,De Bilt,Zeist,2,0.0,0.0
+1683,De Bilt,Wijdemeren,2,0.0,0.0
+1684,De Bilt,Utrecht,2,0.0,0.0
+1685,De Bilt,Stichtse Vecht,2,0.0,0.0
+1686,De Bilt,Hilversum,2,0.0,0.0
+1687,De Bilt,Baarn,2,0.0,0.0
+1688,Culemborg,Houten,2,0.0,103.9522
+1689,Castricum,Heiloo,2,0.0,25.85154
+1690,Castricum,Heemskerk,2,0.0,26.789161
+1691,Castricum,Alkmaar,2,0.0,0.0
+1692,Capelle aan den IJssel,Zuidplas,2,1116.2424,6037.7424
+1693,Capelle aan den IJssel,Rotterdam,2,0.0,1287.666
+1694,Capelle aan den IJssel,Krimpen aan den IJssel,2,0.0,975.63458
+1695,Bunschoten,Nijkerk,2,0.0,0.0
+1696,Bunschoten,Baarn,2,0.0,0.0
+1697,Bunschoten,Amersfoort,2,0.0,0.0
+1698,Brunssum,Landgraaf,2,0.0,0.0
+1699,Brunssum,Heerlen,2,0.0,0.0
+1700,Brummen,Zutphen,2,-3.5710775e-14,4.1463992e-12
+1701,Brummen,Rheden,2,0.0,9750.0
+1702,Brielle,Westvoorne,2,0.0,0.0
+1703,Brielle,Rotterdam,2,-3.1098956e-12,6942.9317
+1704,Brielle,Nissewaard,2,0.0,0.0
+1705,Brielle,Hellevoetsluis,2,0.0,1851.7158
+1706,Breda,Oosterhout,2,0.0,832.88734
+1707,Breda,Moerdijk,2,0.0,58124.138
+1708,Breda,Etten-Leur,2,0.0,667.2011
+1709,Breda,Drimmelen,2,0.0,0.0
+1710,Borsele,Vlissingen,2,0.0,10677.741
+1711,Borsele,Middelburg,2,0.0,12572.259
+1712,Borne,Hengelo,2,-8.358976e-15,24.716284
+1713,Borne,Almelo,2,0.0,0.0
+1714,Bloemendaal,Zandvoort,2,0.0,1151.3102
+1715,Bloemendaal,Velsen,2,0.0,1193.0675
+1716,Bloemendaal,Noordwijk,2,0.0,0.0
+1717,Bloemendaal,Hillegom,2,0.0,0.0
+1718,Bloemendaal,Heemstede,2,0.0,0.0
+1719,Bloemendaal,Haarlemmermeer,2,0.0,0.0
+1720,Bloemendaal,Haarlem,2,0.0,0.0
+1721,Blaricum,Laren,2,0.0,0.0
+1722,Blaricum,Huizen,2,0.0,0.0
+1723,Blaricum,Hilversum,2,0.0,0.0
+1724,Beverwijk,Zaanstad,2,0.0,0.0
+1725,Beverwijk,Velsen,2,0.0,4090.3967
+1726,Beverwijk,Heemskerk,2,0.0,368.8343
+1727,Best,Son en Breugel,2,0.0,0.0
+1728,Best,Eindhoven,2,0.0,0.0
+1729,Bergen op Zoom,Steenbergen,2,-9.3122348e-13,2405.3944
+1730,Bergen op Zoom,Roosendaal,2,0.0,0.0
+1731,Beesel,Venlo,2,0.0,0.0
+1732,Beesel,Roermond,2,0.0,563.63681
+1733,Beesel,Peel en Maas,2,573.03319,573.03319
+1734,Beek,Stein,2,0.0,0.0
+1735,Beek,Sittard-Geleen,2,199.53203,72032.721
+1736,Beek,Meerssen,2,0.0,60771.691
+1737,Barendrecht,Zwijndrecht,2,0.0,339.42526
+1738,Barendrecht,Rotterdam,2,0.0,1104.2371
+1739,Barendrecht,Ridderkerk,2,0.0,0.0
+1740,Barendrecht,Albrandswaard,2,0.0,0.0
+1741,Baarn,Zeist,2,0.0,0.0
+1742,Baarn,Soest,2,0.0,0.0
+1743,Baarn,Laren,2,0.0,0.0
+1744,Baarn,Hilversum,2,0.0,0.0
+1745,Baarn,De Bilt,2,0.0,0.0
+1746,Baarn,Bunschoten,2,0.0,0.0
+1747,Baarn,Amersfoort,2,0.0,0.0
+1748,Assen,Aa en Hunze,2,0.0,3650.0
+1749,Arnhem,Westervoort,2,0.0,0.0
+1750,Arnhem,Rheden,2,0.0,3455.3221
+1751,Arnhem,Renkum,2,0.0,0.0
+1752,Arnhem,Lingewaard,2,0.0,0.0
+1753,Amsterdam,Zaanstad,2,0.0,19047.849
+1754,Amsterdam,Weesp,2,0.0,0.0
+1755,Amsterdam,Ouder-Amstel,2,0.0,0.0
+1756,Amsterdam,Oostzaan,2,0.0,0.0
+1757,Amsterdam,Haarlemmermeer,2,0.0,0.0
+1758,Amsterdam,Gooise Meren,2,0.0,0.0
+1759,Amsterdam,Diemen,2,0.0,0.0
+1760,Amsterdam,Amstelveen,2,0.0,0.0
+1761,Amstelveen,Uithoorn,2,0.0,0.0
+1762,Amstelveen,Ouder-Amstel,2,103.8804,103.8804
+1763,Amstelveen,Haarlemmermeer,2,0.0,37.779914
+1764,Amstelveen,Amsterdam,2,0.0,0.0
+1765,Amstelveen,Aalsmeer,2,0.0,273.59107
+1766,Amersfoort,Zeist,2,0.0,0.0
+1767,Amersfoort,Soest,2,0.0,0.0
+1768,Amersfoort,Nijkerk,2,0.0,0.0
+1769,Amersfoort,Bunschoten,2,0.0,0.0
+1770,Amersfoort,Baarn,2,0.0,0.0
+1771,Alphen aan den Rijn,Zuidplas,2,0.0,0.0
+1772,Alphen aan den Rijn,Zoetermeer,2,0.0,0.0
+1773,Alphen aan den Rijn,Waddinxveen,2,0.0,0.0
+1774,Alphen aan den Rijn,Nieuwkoop,2,1243.4995,1243.4995
+1775,Alphen aan den Rijn,Leiderdorp,2,0.0,0.0
+1776,Alphen aan den Rijn,Lansingerland,2,0.0,0.0
+1777,Alphen aan den Rijn,Kaag en Braassem,2,0.0,0.0
+1778,Almere,Zeewolde,2,0.0,0.0
+1779,Almere,Lelystad,2,0.0,0.0
+1780,Almelo,Borne,2,0.0,0.0
+1781,Alkmaar,Zaanstad,2,0.0,0.0
+1782,Alkmaar,Langedijk,2,0.0,0.0
+1783,Alkmaar,Heiloo,2,-8.8691665e-15,24.946737
+1784,Alkmaar,Heerhugowaard,2,0.0,24.073601
+1785,Alkmaar,Castricum,2,0.0,0.0
+1786,Albrandswaard,Rotterdam,2,1.1654285e-13,658.93542
+1787,Albrandswaard,Nissewaard,2,0.0,0.0
+1788,Albrandswaard,Barendrecht,2,0.0,0.0
+1789,Alblasserdam,Ridderkerk,2,-3.6114512e-14,287.54586
+1790,Alblasserdam,Papendrecht,2,0.0,538.87654
+1791,Alblasserdam,Hendrik-Ido-Ambacht,2,0.0,0.0
+1792,Aalsmeer,Uithoorn,2,0.0,0.0
+1793,Aalsmeer,Kaag en Braassem,2,0.0,0.0
+1794,Aalsmeer,Haarlemmermeer,2,0.0,283.51406
+1795,Aalsmeer,Amstelveen,2,3.1734469e-14,273.59107
+1796,Aa en Hunze,Midden-Groningen,2,0.0,0.0
+1797,Aa en Hunze,Assen,2,-4.7060481e-13,3650.0
+1798,'s-Hertogenbosch,Vught,2,0.0,0.0
+1799,'s-Hertogenbosch,Heusden,2,0.0,590.605
